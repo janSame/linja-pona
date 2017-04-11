@@ -1,138 +1,60 @@
-Ligature code from version 2 :
+Gllyph code as of version 3:
 
 feature liga { # Standard Ligatures
  script latn; # Latin
-    sub space space by uniE679;
-    sub exclam space by uniE683;
-    sub comma space by uniE680;
-    sub period space by uniE681;
-    sub colon space by uniE682;
-    sub question space by uniE685;
-    sub a n p a hyphen l a w a by uniE700;
+
+		#----------------------------------------------
+    #STANDARD GLYPHS
+    #----------------------------------------------
     sub a k e s i by uniE601;
     sub a l a s a by uniE603;
     sub a n p a by uniE605;
     sub a n t e by uniE606;
     sub a w e n by uniE608;
     sub a l a by uniE602;
-    sub a l e by uniE604;
     sub a l i by uniE604;
+    sub a l e by uniE604;
     sub a n u by uniE607;
-    sub a space by uniE600;
-    sub a exclam by uniE600;
-    sub a a by uniE600;
-    sub e s u n by uniE60B;
-    sub e space by uniE609;
-    sub e exclam by uniE609;
-    sub e e by uniE609;
-    sub e n by uniE60A;
-    sub i j o hyphen m o n s u t a by uniF001;
-    sub i l o hyphen n a n p a by uniE722;
-    sub i j o hyphen l i l i by uniE711;
-    sub i j o hyphen p o n a by uniE712;
-    sub i l o hyphen l a p e by uniE720;
-    sub i l o hyphen m u s i by uniE721;
-    sub i l o hyphen o p e n by uniE723;
-    sub i l o hyphen s u n o by uniE724;
-    sub i l o hyphen t o k i by uniE725;
-    sub i j o hyphen i k e by uniE710;
-    sub i j o hyphen u t a by uniE713;
+    
+    #a
+    	sub a a by uniE600;
+    	sub a space by uniE600;
+    	sub a exclam by uniE600;
+    
+    sub e s u n by uniE60B;    
+    sub e n by uniE60A;    
+    
+    #e
+	    sub e e by uniE609;
+	    sub e space by uniE609;
+	    sub e exclam by uniE609;
+    
     sub i n s a by uniE60F;
     sub i j o by uniE60C;
     sub i k e by uniE60D;
     sub i l o by uniE60E;
-    sub j a n hyphen m o n s u t a by uniF002;
-    sub j a n hyphen k a l a m a by uniE756;
-    sub j a n hyphen k u l u p u by uniE757;
-    sub j a n hyphen p a k a l a by uniE763;
-    sub j a n hyphen a l a s a by uniE751;
-    sub j a n hyphen u t a l a by uniE776;
-    sub j a n hyphen a n t e by uniE778;
-    sub j a n hyphen k a l a by uniE754;
-    sub j a n hyphen k a s i by uniE755;
-    sub j a n hyphen l a w a by uniE758;
-    sub j a n hyphen l i l i by uniE759;
-    sub j a n hyphen m u t e by uniE760;
-    sub j a n hyphen n a s a by uniE761;
-    sub j a n hyphen o l i n by uniE762;
-    sub j a n hyphen p a l i by uniE764;
-    sub j a n hyphen p o k a by uniE765;
-    sub j a n hyphen p o n a by uniE766;
-    sub j a n hyphen s a m a by uniE767;
-    sub j a n hyphen s e m e by uniE768;
-    sub j a n hyphen s e w i by uniE769;
-    sub j a n hyphen s o n a by uniE771;
-    sub j a n hyphen s u l i by uniE772;
-    sub j a n hyphen s u w i by uniE773;
-    sub j a n hyphen t o k i by uniE774;
-    sub j a n hyphen u n p a by uniE775;
-    sub j a n hyphen w a w a by uniE777;
-    sub j a n hyphen a l a by uniE750;
-    sub j a n hyphen a l e by uniE752;
-    sub j a n hyphen a l i by uniE752;
-    sub j a n hyphen i k e by uniE753;
-    sub j a n hyphen s i n by uniE770;
     sub j a k i by uniE610;
     sub j e l o by uniE612;
     sub j a n by uniE611;
     sub j o by uniE613;
-    sub k a l a m a hyphen m u s i by uniE803;
-    sub k i l i hyphen p a l i s a by uniE812;
-    sub k a l a hyphen l e t e by uniE801;
-    sub k a l a hyphen l i l i by uniE800;
-    sub k a s i hyphen l i l i by uniE805;
-    sub k i l i hyphen l i l i by uniE810;
-    sub k i l i hyphen l o j e by uniE811;
-    sub k i l i hyphen s u w i by uniE813;
-    sub k o n hyphen l e t e by uniE830;
-    sub k e p e k e n by uniE619;
-    sub k o hyphen j a k i by uniE820;
-    sub k o hyphen k u l e by uniE819;
-    sub k o hyphen l e t e by uniE821;
-    sub k o hyphen n a s a by uniE824;
-    sub k o hyphen w a l o by uniE825;
     sub k a l a m a by uniE615;
-    sub k i p i s i by uniE691;
     sub k u l u p u by uniE61F;
     sub k i w e n by uniE61B;
     sub k a l a by uniE614;
     sub k a m a by uniE616;
     sub k a s i by uniE617;
+    sub k e n by uniE618;
+    sub k e p e k e n by uniE619;
     sub k i l i by uniE61A;
-    sub k i n exclam by uniE690;
     sub k u l e by uniE61E;
     sub k u t e by uniE620;
-    sub k e n by uniE618;
-    sub k i n by uniE690;
     sub k o n by uniE61D;
     sub k o by uniE61C;
-    sub l e n hyphen p i m e j a by uniE839;
-    sub l i n j a hyphen l i l i by uniE842;
-    sub l i n j a hyphen p o n a by uniE843;
-    sub l i p u hyphen n a n p a by uniE847;
-    sub l u p a hyphen m o n s i by uniE858;
-    sub l i p u hyphen s e w i by uniE848;
-    sub l i p u hyphen s o n a by uniE846;
-    sub l i p u hyphen t o k i by uniE845;
-    sub l u k a hyphen l u k a by uniE850;
-    sub l u p a hyphen j a k i by uniE855;
-    sub l u p a hyphen k u t e by uniE856;
-    sub l u p a hyphen m e l i by uniE857;
-    sub l u p a hyphen n e n a by uniE859;
-    sub l e n hyphen j e l o by uniE832;
-    sub l e n hyphen l a s o by uniE833;
-    sub l e n hyphen l a w a by uniE836;
-    sub l e n hyphen l o j e by uniE834;
-    sub l e n hyphen l u k a by uniE837;
-    sub l e n hyphen n o k a by uniE838;
-    sub l e n hyphen w a l o by uniE840;
-    sub l e n hyphen j a n by uniE835;
     sub l i n j a by uniE629;
     sub l u k i n by uniE62E;
     sub l a p e by uniE622;
     sub l a s o by uniE623;
     sub l a w a by uniE624;
-    sub l e k o by uniE692;
     sub l e t e by uniE626;
     sub l i l i by uniE628;
     sub l i p u by uniE62A;
@@ -143,26 +65,6 @@ feature liga { # Standard Ligatures
     sub l o n by uniE62C;
     sub l a by uniE621;
     sub l i by uniE627;
-    sub m a m a hyphen m a m a by uniE865;
-    sub m a m a hyphen m e l i by uniE866;
-    sub m a m a hyphen m i j e by uniE867;
-    sub m e l i hyphen l i l i by uniE870;
-    sub m e l i hyphen p o n a by uniE869;
-    sub m e l i hyphen s a m a by uniE871;
-    sub m e l i hyphen u n p a by uniE872;
-    sub m i j e hyphen l i l i by uniE875;
-    sub m i j e hyphen p o n a by uniE874;
-    sub m i j e hyphen s a m a by uniE876;
-    sub m i j e hyphen u n p a by uniE877;
-    sub m i j e hyphen w a w a by uniE878;
-    sub m u s i hyphen l i l i by uniE879;
-    sub m e l i hyphen i k e by uniE868;
-    sub m i j e hyphen i k e by uniE873;
-    sub m a hyphen k a s i by uniF021;
-    sub m a hyphen t o m o by uniF022;
-    sub m o n s u t a by uniE693;
-    sub m a hyphen a l e by uniF020;
-    sub m a hyphen a l i by uniF020;
     sub m o n s i by uniE638;
     sub m a m a by uniE631;
     sub m a n i by uniE632;
@@ -176,12 +78,6 @@ feature liga { # Standard Ligatures
     sub m a by uniE630;
     sub m i by uniE634;
     sub m u by uniE639;
-    sub n e n a hyphen k u t e by uniE881;
-    sub n e n a hyphen l i l i by uniE882;
-    sub n e n a hyphen m a m a by uniE883;
-    sub n e n a hyphen m e l i by uniE884;
-    sub n e n a hyphen k o n by uniE880;
-    sub n a m a k o by uniE694;
     sub n a n p a by uniE63D;
     sub n a s i n by uniE63F;
     sub n a s a by uniE63E;
@@ -189,29 +85,19 @@ feature liga { # Standard Ligatures
     sub n i m i by uniE642;
     sub n o k a by uniE643;
     sub n i by uniE641;
+    
+    #o    
+	    sub o o by uniE644;
+	    sub o space by uniE644;
+	    sub o exclam by uniE644;
+    
     sub o l i n by uniE645;
     sub o p e n by uniE647;
-    sub o k o by uniE695;
     sub o n a by uniE646;
-    sub o space by uniE644;
-    sub o exclam by uniE644;
-    sub o o by uniE644;
-    sub p i l i n hyphen p a k a l a by uniE896;
-    sub p a l i s a hyphen l i l i by uniE890;
-    sub p i l i n hyphen n a s a by uniE895;
-    sub p i l i n hyphen p o n a by uniE897;
-    sub p i l i n hyphen s a m a by uniE898;
-    sub p i l i n hyphen a l a by uniE893;
-    sub p i l i n hyphen i k e by uniE894;
-    sub p o k i hyphen l e t e by uniE906;
-    sub p o k i hyphen s e l i by uniE907;
-    sub p o k i hyphen t e l o by uniE908;
-    sub p o k i hyphen k o n by uniE905;
     sub p a k a l a by uniE648;
     sub p a l i s a by uniE64A;
     sub p i m e j a by uniE64F;
     sub p i l i n by uniE64E;
-    sub p a k e by uniE696;
     sub p a l i by uniE649;
     sub p a n a by uniE64C;
     sub p i n i by uniE650;
@@ -222,37 +108,18 @@ feature liga { # Standard Ligatures
     sub p a n by uniE64B;
     sub p i by uniE64D;
     sub p u by uniE655;
-    sub s i t e l e n hyphen m o n s u t a by uniF004;
-    sub s i t e l e n hyphen s i t e l e n by uniF013;
-    sub s i t e l e n hyphen p o n a by uniF011;
-    sub s i t e l e n hyphen t a w a by uniE915;
-    sub s i t e l e n hyphen t o k i by uniF014;
-    sub s i t e l e n hyphen i k e by uniF010;
-    sub s o n a hyphen s i j e l o by uniE923;
-    sub s i t e l e n hyphen m a by uniF012;
-    sub s o n a hyphen n a n p a by uniE921;
-    sub s o n a hyphen t e n p o by uniE925;
-    sub s o n a hyphen u t a l a by uniE930;
-    sub s u p a hyphen m o n s i by uniE948;
-    sub s i k e hyphen l i l i by uniE913;
-    sub s o n a hyphen l i l i by uniE918;
-    sub s o n a hyphen p o n a by uniE922;
-    sub s o n a hyphen t o k i by uniE926;
-    sub s u p a hyphen l a p e by uniE945;
-    sub s u p a hyphen l a w a by uniE946;
-    sub s u p a hyphen m o k u by uniE947;
-    sub s u p a hyphen p a l i by uniE949;
-    sub s o n a hyphen i k e by uniE919;
     sub s i t e l e n by uniE660;
-    sub s o n a hyphen m a by uniE920;
     sub s i j e l o by uniE65B;
     sub s i n p i n by uniE65F;
     sub s o w e l i by uniE662;
-    sub s e m e question by uniE659;
     sub s a m a by uniE656;
     sub s e l i by uniE657;
     sub s e l o by uniE658;
-    sub s e m e by uniE659;
+    
+    #seme
+	    sub s e m e by uniE659;
+	    sub s e m e question by uniE659;
+    
     sub s e w i by uniE65A;
     sub s i k e by uniE65C;
     sub s i n a by uniE65E;
@@ -262,25 +129,7 @@ feature liga { # Standard Ligatures
     sub s u p a by uniE665;
     sub s u w i by uniE666;
     sub s i n by uniE65D;
-    sub t o m o hyphen m o n s u t a by uniF003;
-    sub t o k i hyphen u t a l a by uniE962;
-    sub t o m o hyphen n a s i n by uniE968;
-    sub t o m o hyphen u t a l a by uniE975;
-    sub t e l o hyphen l e t e by uniE955;
-    sub t e l o hyphen l i l i by uniE956;
-    sub t o k i hyphen s o n a by uniE961;
-    sub t o m o hyphen l a p e by uniE965;
-    sub t o m o hyphen m a n i by uniE966;
-    sub t o m o hyphen m o k u by uniE967;
-    sub t o m o hyphen p a l i by uniE969;
-    sub t o m o hyphen s o n a by uniE972;
-    sub t o m o hyphen t a w a by uniE973;
-    sub t o m o hyphen u n p a by uniE974;
-    sub t o k i hyphen i k e by uniE960;
-    sub t o k i p o n a by uniE678;
-    sub t u hyphen w a n by uniE991;
     sub t e n p o by uniE66B;
-    sub t u hyphen t u by uniE990;
     sub t a s o by uniE668;
     sub t a w a by uniE669;
     sub t e l o by uniE66A;
@@ -291,7 +140,6 @@ feature liga { # Standard Ligatures
     sub u t a l a by uniE671;
     sub u n p a by uniE66F;
     sub u t a by uniE670;
-    sub w a n hyphen t u by uniE996;
     sub w a l o by uniE672;
     sub w a s o by uniE674;
     sub w a w a by uniE675;
@@ -300,4 +148,416 @@ feature liga { # Standard Ligatures
     sub w a n by uniE673;
     sub z z by uniE679;
     sub _65535 _65535 by uniE679;
+    
+    # Ponctuation
+	    sub space space by uniE679;
+	    sub comma space by uniE680;
+	    sub period space by uniE681;
+	    sub colon space by uniE682;
+	    sub exclam space by uniE683;
+    	sub question space by uniE685;
+    
+    # Unofficial Glyphs
+    sub k i n by uniE690;
+    sub k i n exclam by uniE690;
+    sub k i p i s i by uniE691;
+    sub l e k o by uniE692;
+    sub m o n s u t a by uniE693;
+    sub n a m a k o by uniE694;
+    sub o k o by uniE695;
+    sub p a k e by uniE696;
+    
+    #----------------------------------------------
+    #COMPOUND GLYPHS
+    #----------------------------------------------
+    sub a n p a hyphen l a w a by uniE700;
+    
+    sub i j o hyphen i k e by uniE710;
+    sub i j o hyphen l i l i by uniE711;
+    sub i j o hyphen p o n a by uniE712;
+    sub i j o hyphen u t a by uniE713;
+    
+    sub i l o hyphen k i p i s i by uniE719;
+    sub i l o hyphen l a p e by uniE720;
+    sub i l o hyphen m u s i by uniE721;
+    sub i l o hyphen n a n p a by uniE722;
+    sub i l o hyphen o p e n by uniE723;
+    sub i l o hyphen s u n o by uniE724;
+    sub i l o hyphen t o k i by uniE725;
+    sub i l o hyphen l u k i n by uniE726;
+    sub i l o hyphen m o l i by uniE727;
+    sub i l o hyphen o k o by uniE728;
+    
+    sub j a n hyphen a l a by uniE750;
+    sub j a n hyphen a l a s a by uniE751;
+    sub j a n hyphen a l i by uniE752;
+    sub j a n hyphen a l e by uniE752;
+    sub j a n hyphen i k e by uniE753;
+    sub j a n hyphen k a l a by uniE754;
+    sub j a n hyphen k a s i by uniE755;
+    sub j a n hyphen k a l a m a by uniE756;
+    sub j a n hyphen k u l u p u by uniE757;
+    sub j a n hyphen l a w a by uniE758;
+    sub j a n hyphen l i l i by uniE759;
+    sub j a n hyphen m u t e by uniE760;
+    sub j a n hyphen n a s a by uniE761;
+    sub j a n hyphen o l i n by uniE762;
+    sub j a n hyphen p a k a l a by uniE763;
+    sub j a n hyphen p a l i by uniE764;
+    sub j a n hyphen p o k a by uniE765;
+    sub j a n hyphen p o n a by uniE766;
+    sub j a n hyphen s a m a by uniE767;
+    sub j a n hyphen s e m e by uniE768;
+    sub j a n hyphen s e w i by uniE769;
+    sub j a n hyphen s i n by uniE770;
+    sub j a n hyphen s o n a by uniE771;
+    sub j a n hyphen s u l i by uniE772;
+    sub j a n hyphen s u w i by uniE773;
+    sub j a n hyphen t o k i by uniE774;
+    sub j a n hyphen u n p a by uniE775;
+    sub j a n hyphen u t a l a by uniE776;
+    sub j a n hyphen w a w a by uniE777;
+    sub j a n hyphen a n t e by uniE778;
+    
+    sub k a l a hyphen l i l i by uniE800;
+    sub k a l a hyphen l e t e by uniE801;
+    
+    sub k a l a m a hyphen m u s i by uniE803;
+    
+    sub k a s i hyphen l i l i by uniE805;
+    
+    sub k i l i hyphen j e l o by uniE808;
+    sub k i l i hyphen l a s o by uniE809;
+    sub k i l i hyphen l i l i by uniE810;
+    sub k i l i hyphen l o j e by uniE811;
+    sub k i l i hyphen p a l i s a by uniE812;
+    sub k i l i hyphen s u w i by uniE813;
+    sub k i l i hyphen p i m e j a by uniE814;
+    sub k i l i hyphen w a l o by uniE815;
+    
+    sub k o hyphen k a s i by uniE818;
+    sub k o hyphen k u l e by uniE819;
+    sub k o hyphen j a k i by uniE820;
+    sub k o hyphen l e t e by uniE821;
+    sub k o hyphen l i l i by uniE822;
+    sub k o hyphen s e l i by uniE823;
+    sub k o hyphen n a s a by uniE824;
+    sub k o hyphen w a l o by uniE825;
+    sub k o hyphen j e l o by uniE826;
+    sub k o hyphen l a s o by uniE827;
+    sub k o hyphen l o j e by uniE828;
+    sub k o hyphen p i m e j a by uniE829;
+    
+    sub k o n hyphen l e t e by uniE830;
+    
+    sub l e n hyphen j e l o by uniE832;
+    sub l e n hyphen l a s o by uniE833;
+    sub l e n hyphen l o j e by uniE834;
+    sub l e n hyphen j a n by uniE835;
+    sub l e n hyphen l a w a by uniE836;
+    sub l e n hyphen l u k a by uniE837;
+    sub l e n hyphen n o k a by uniE838;
+    sub l e n hyphen p i m e j a by uniE839;
+    sub l e n hyphen s i n by uniE840;
+    sub l e n hyphen w a l o by uniE841;
+    
+    sub l i n j a hyphen l i l i by uniE842;
+    sub l i n j a hyphen p o n a by uniE843;
+    
+    sub l i p u hyphen k a s i by uniE844;
+    sub l i p u hyphen t o k i by uniE845;
+    sub l i p u hyphen s o n a by uniE846;
+    sub l i p u hyphen n a n p a by uniE847;
+    sub l i p u hyphen s e w i by uniE848;
+    
+    sub l u k a hyphen l u k a by uniE850;
+    
+    sub l u p a hyphen k i w e n by uniE854;
+    sub l u p a hyphen j a k i by uniE855;
+    sub l u p a hyphen k u t e by uniE856;
+    sub l u p a hyphen m e l i by uniE857;
+    sub l u p a hyphen m o n s i by uniE858;
+    sub l u p a hyphen n e n a by uniE859;
+    sub l u p a hyphen l i l i by uniE860;
+    sub l u p a hyphen t o m o by uniE862;
+    
+    sub m a m a hyphen m a m a by uniE865;
+    sub m a m a hyphen m e l i by uniE866;
+    sub m a m a hyphen m i j e by uniE867;
+    
+    sub m e l i hyphen i k e by uniE868;
+    sub m e l i hyphen p o n a by uniE869;
+    sub m e l i hyphen l i l i by uniE870;
+    sub m e l i hyphen s a m a by uniE871;
+    sub m e l i hyphen u n p a by uniE872;
+    
+    sub m i j e hyphen i k e by uniE873;
+    sub m i j e hyphen p o n a by uniE874;
+    sub m i j e hyphen l i l i by uniE875;
+    sub m i j e hyphen s a m a by uniE876;
+    sub m i j e hyphen u n p a by uniE877;
+    sub m i j e hyphen w a w a by uniE878;
+    
+    sub m u s i hyphen l i l i by uniE879;
+    
+    sub n e n a hyphen k o n by uniE880;
+    sub n e n a hyphen k u t e by uniE881;
+    sub n e n a hyphen l i l i by uniE882;
+    sub n e n a hyphen m a m a by uniE883;
+    sub n e n a hyphen m e l i by uniE884;
+    
+    sub p a l i s a hyphen l i l i by uniE890;
+    
+    sub p i l i n hyphen a l a by uniE893;
+    sub p i l i n hyphen i k e by uniE894;
+    sub p i l i n hyphen n a s a by uniE895;
+    sub p i l i n hyphen p a k a l a by uniE896;
+    sub p i l i n hyphen p o n a by uniE897;
+    sub p i l i n hyphen s a m a by uniE898;
+    
+    sub p o k i hyphen k o n by uniE905;
+    sub p o k i hyphen l e t e by uniE906;
+    sub p o k i hyphen s e l i by uniE907;
+    sub p o k i hyphen t e l o by uniE908;
+    sub p o k i hyphen l i l i by uniE909;
+    sub p o k i hyphen l e n by uniE910;
+    
+    sub s i k e hyphen l i l i by uniE913;
+    
+    sub s i t e l e n hyphen t a w a by uniE915;
+    
+    sub s o n a hyphen a l a by uniE917;
+    sub s o n a hyphen l i l i by uniE918;
+    sub s o n a hyphen i k e by uniE919;
+    sub s o n a hyphen m a by uniE920;
+    sub s o n a hyphen n a n p a by uniE921;
+    sub s o n a hyphen p o n a by uniE922;
+    sub s o n a hyphen s i j e l o by uniE923;
+    sub s o n a hyphen t e n p o by uniE925;  
+    sub s o n a hyphen t o k i by uniE926;
+    sub s o n a hyphen u t a l a by uniE930;
+    
+    sub s e l o hyphen l e n by uniE943;
+    sub s e l o hyphen s o w e l i by uniE944;
+    
+    sub s u p a hyphen l a p e by uniE945;
+    sub s u p a hyphen l a w a by uniE946;
+    sub s u p a hyphen m o k u by uniE947;
+    sub s u p a hyphen m o n s i by uniE948;
+    sub s u p a hyphen p a l i by uniE949;
+    sub s u p a hyphen l u p a by uniE950;
+    
+    sub t e l o hyphen l e t e by uniE955;
+    sub t e l o hyphen l i l i by uniE956;
+    
+    sub t o k i hyphen a l a by uniE958;
+    sub t o k i hyphen i k e by uniE960;
+    sub t o k i hyphen p o n a by uniE678;
+    sub t o k i hyphen s o n a by uniE961;
+    sub t o k i hyphen u t a l a by uniE962;
+    sub t o k i hyphen s i n by uniE963;
+    
+    sub t o m o hyphen l a p e by uniE965;
+    sub t o m o hyphen m a n i by uniE966;
+    sub t o m o hyphen m o k u by uniE967;
+    sub t o m o hyphen n a s i n by uniE968;
+    sub t o m o hyphen p a l i by uniE969;
+    sub t o m o hyphen s o n a by uniE972;
+    sub t o m o hyphen t a w a by uniE973;
+    sub t o m o hyphen u n p a by uniE974;
+    sub t o m o hyphen u t a l a by uniE975;
+    
+    sub t u hyphen t u by uniE990;
+    sub t u hyphen w a n by uniE991;
+    
+    sub w a n hyphen t u by uniE996;
+    
+    sub i j o hyphen m o n s u t a by uniF001;
+    sub j a n hyphen m o n s u t a by uniF002;
+    sub t o m o hyphen m o n s u t a by uniF003;
+    sub s i t e l e n hyphen m o n s u t a by uniF004;
+    
+    
+    sub s i t e l e n hyphen i k e by uniF010;
+    sub s i t e l e n hyphen p o n a by uniF011;
+    sub s i t e l e n hyphen m a by uniF012;
+    sub s i t e l e n hyphen s i t e l e n by uniF013;
+    sub s i t e l e n hyphen t o k i by uniF014;
+    
+    sub m a hyphen a l i by uniF020;
+    sub m a hyphen a l e by uniF020;
+    sub m a hyphen k a s i by uniF021;
+    sub m a hyphen t o m o by uniF022;
+    
+    sub k i w e n hyphen j e l o by uniF032;
+    sub k i w e n hyphen l a s o by uniF033;
+    sub k i w e n hyphen l i l i by uniF034;
+    sub k i w e n hyphen l o j e by uniF035;
+    sub k i w e n hyphen m u n by uniF036;
+    sub k i w e n hyphen p i m e j a by uniF037;
+    sub k i w e n hyphen s u n o by uniF038;
+    sub k i w e n hyphen w a l o by uniF039;
+    sub k i w e n hyphen k a s i by uniF040;
+    sub k i w e n hyphen l e t e by uniF041;
+    sub k i w e n hyphen s e l i by uniF042;
+    
+    sub i k e hyphen a l a by uniF060;
+    sub i k e hyphen l i l i by uniF061;
+    sub i k e hyphen l u k i n by uniF062;
+   
+    sub p o n a hyphen a l a by uniF064;
+    sub p o n a hyphen l i l i by uniF065;
+    sub p o n a hyphen l u k i n by uniF066;
+    
+    sub l e n hyphen l i l i by uniF070;
+    
+		#------IJO------
+    #a				uniF101
+    sub i j o hyphen a k e s i by uniF102;
+    sub i j o hyphen a l a by uniF103;
+    sub i j o hyphen a l a s a by uniF104;
+    sub i j o hyphen a l i by uniF105;
+    sub i j o hyphen a l e by uniF105;
+    sub i j o hyphen a n p a by uniF106;
+    sub i j o hyphen a n t e by uniF107;
+    sub i j o hyphen a n u by uniF108;
+    sub i j o hyphen a w e n by uniF109;
+    #e				uniF110
+		sub i j o hyphen e n by uniF111;
+    sub i j o hyphen e s u n by uniF112;
+    #----
+    #ijo 			uniF113
+    #ike uniE710
+    sub i j o hyphen i l o by uniF115;
+    sub i j o hyphen i n s a by uniF116;
+    sub i j o hyphen j a k i by uniF117;
+    sub i j o hyphen j a n by uniF118;
+    sub i j o hyphen j e l o by uniF119;
+    sub i j o hyphen j o by uniF120;
+    sub i j o hyphen k a l a by uniF121;
+    sub i j o hyphen k a l a m a by uniF122;
+    sub i j o hyphen k a m a by uniF123;
+    sub i j o hyphen k a s i by uniF124;
+    #----
+    sub i j o hyphen k e n by uniF125;
+    sub i j o hyphen k e p e k e n by uniF126;
+    sub i j o hyphen k i l i by uniF127;
+    sub i j o hyphen k i w e n by uniF128;
+    sub i j o hyphen k o by uniF129;
+    sub i j o hyphen k o n by uniF130;
+    sub i j o hyphen k u l e by uniF131;
+    sub i j o hyphen k u l u p u by uniF132;
+    sub i j o hyphen k u t e by uniF133;
+    #la 			uniF134
+    sub i j o hyphen l a p e by uniF135;
+    sub i j o hyphen l a s o by uniF136;
+    #----
+    sub i j o hyphen l a w a by uniF137;
+    sub i j o hyphen l e n by uniF138;
+    sub i j o hyphen l e t e by uniF139;
+    #li				uniF140
+    #lili uniE711
+    sub i j o hyphen l i n j a by uniF142;
+    sub i j o hyphen l i p u by uniF143;
+    sub i j o hyphen l o j e by uniF144;
+    sub i j o hyphen l o n by uniF145;
+    sub i j o hyphen l u k a by uniF146;
+    sub i j o hyphen l u k i n by uniF147;
+    sub i j o hyphen l u p a by uniF148;
+    #----
+    sub i j o hyphen m a by uniF149;
+    sub i j o hyphen m a m a by uniF150;
+    sub i j o hyphen m a n i by uniF151;
+    sub i j o hyphen m e l i by uniF152;
+    sub i j o hyphen m i by uniF153;
+    sub i j o hyphen m i j e by uniF154;
+    sub i j o hyphen m o k u by uniF155;
+    sub i j o hyphen m o l i by uniF156;
+    sub i j o hyphen m o n s i by uniF157;
+    sub i j o hyphen m u by uniF158;
+    sub i j o hyphen m u n by uniF159;
+    sub i j o hyphen m u s i by uniF160;
+    #----
+    sub i j o hyphen m u t e by uniF161;
+    sub i j o hyphen n a n p a by uniF162;
+    sub i j o hyphen n a s a by uniF163;
+    sub i j o hyphen n a s i n by uniF164;
+    sub i j o hyphen n e n a by uniF165;
+    sub i j o hyphen n i by uniF166;
+    sub i j o hyphen n i m i by uniF167;
+    sub i j o hyphen n o k a by uniF168;
+    #o				uniF169
+    sub i j o hyphen o l i n by uniF170;
+    sub i j o hyphen o n a by uniF171;
+    sub i j o hyphen o p e n by uniF172;
+    #----
+    sub i j o hyphen p a k a l a by uniF173;
+    sub i j o hyphen p a l i by uniF174;
+    sub i j o hyphen p a l i s a by uniF175;
+    sub i j o hyphen p a n by uniF176;
+    sub i j o hyphen p a n a by uniF177;
+    #pi				uniF178
+    sub i j o hyphen p i l i n by uniF179;
+    sub i j o hyphen p i m e j a by uniF180;
+    sub i j o hyphen p i n i by uniF181;
+    sub i j o hyphen p i p i by uniF182;
+    sub i j o hyphen p o k a by uniF183;
+    sub i j o hyphen p o k i by uniF184;
+    #----
+    #pona	uniE712
+    sub i j o hyphen p u by uniF186;
+    sub i j o hyphen s a m a by uniF187;
+    sub i j o hyphen s e l i by uniF188;
+    sub i j o hyphen s e l o by uniF189;
+    sub i j o hyphen s e m e by uniF190;
+    sub i j o hyphen s e w i by uniF191;
+    sub i j o hyphen s i j e l o by uniF192;
+    sub i j o hyphen s i k e by uniF193;
+    sub i j o hyphen s i n by uniF194;
+    sub i j o hyphen s i n a by uniF195;
+    sub i j o hyphen s i n p i n by uniF196;
+   	#----
+   	sub i j o hyphen s i t e l e n by uniF197;
+   	sub i j o hyphen s o n a by uniF198;
+   	sub i j o hyphen s o w e l i by uniF199;
+   	sub i j o hyphen s u l i by uniF200;
+   	sub i j o hyphen s u n o by uniF201;
+   	sub i j o hyphen s u p a by uniF202;
+   	sub i j o hyphen s u w i by uniF203;
+   	sub i j o hyphen t a n by uniF204;
+		sub i j o hyphen t a s o by uniF205;
+		sub i j o hyphen t a w a by uniF206;
+		sub i j o hyphen t e l o by uniF207;
+		sub i j o hyphen t e n p o by uniF208;
+		#----
+		sub i j o hyphen t o k i by uniF209;
+		sub i j o hyphen t o m o by uniF210;
+		sub i j o hyphen t u by uniF211;
+		sub i j o hyphen u n p a by uniF212;
+		#uta uniE713
+		sub i j o hyphen u t a l a by uniF214;
+		sub i j o hyphen w a l o by uniF215;
+		sub i j o hyphen w a n by uniF216;
+		sub i j o hyphen w a s o by uniF217;
+		sub i j o hyphen w a w a by uniF218;
+		sub i j o hyphen w e k a by uniF219;
+		sub i j o hyphen w i l e by uniF220;
+		#----
+		#Unofficials
+		sub i j o hyphen k i n by uniF221;
+		sub i j o hyphen k i p i s i by uniF222;
+		sub i j o hyphen l e k o by uniF223;
+		#monsuta uniF001
+		sub i j o hyphen n a m a k o by uniF225;
+		sub i j o hyphen o k o by uniF226;
+		sub i j o hyphen p a k e by uniF227;
+		#----
+
 } liga;
+
+
+
+
+
+
+
