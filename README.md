@@ -16,3 +16,11 @@ I've also implemented glyphs I've created for unofficial and apocryphal words.
 You can download the font for free.
 
 I hope you'll like and have fun my project.
+
+## Installation
+
+**MacOS**
+
+1. Download the desired OTF file
+2. Open the "Font Book" application
+3. Select "File" > "Add Font" and select the downloaded OTF file
