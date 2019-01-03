@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="972"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="926" y="1017" type="line"/>
+      <point x="338" y="170" type="line"/>
+      <point x="932" y="170" type="line"/>
+      <point x="932" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="649" y="901" type="line"/>
+      <point x="50" y="901" type="line"/>
+      <point x="50" y="1071" type="line"/>
+      <point x="926" y="1071" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>901</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

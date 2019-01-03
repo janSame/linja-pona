@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE943" format="1">
+  <advance width="2048"/>
+  <unicode hex="E943"/>
+  <outline>
+    <contour>
+      <point x="648" y="1109" type="line"/>
+      <point x="648" y="901" type="line"/>
+      <point x="542" y="901" type="line"/>
+      <point x="542" y="1109" type="line"/>
+      <point x="542" y="1270" type="line"/>
+      <point x="542" y="1676" type="line"/>
+      <point x="1506" y="1676" type="line"/>
+      <point x="1506" y="1297" type="line"/>
+      <point x="1506" y="1109" type="line"/>
+      <point x="1506" y="901" type="line"/>
+      <point x="1400" y="901" type="line"/>
+      <point x="1400" y="1109" type="line"/>
+      <point x="1077" y="1109" type="line"/>
+      <point x="1077" y="907" type="line"/>
+      <point x="971" y="907" type="line"/>
+      <point x="971" y="1109" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="1270" type="line"/>
+      <point x="648" y="1215" type="line"/>
+      <point x="971" y="1215" type="line"/>
+      <point x="971" y="1215" type="line"/>
+      <point x="1077" y="1215" type="line"/>
+      <point x="1077" y="1215" type="line"/>
+      <point x="1400" y="1215" type="line"/>
+      <point x="1400" y="1297" type="line"/>
+      <point x="1400" y="1570" type="line"/>
+      <point x="648" y="1570" type="line"/>
+    </contour>
+    <contour>
+      <point x="1769" y="768" type="line"/>
+      <point x="1802" y="38" type="line"/>
+      <point x="1673" y="38" type="line"/>
+      <point x="1667" y="645" type="line"/>
+      <point x="1403" y="645" type="line"/>
+      <point x="1417" y="89" type="line"/>
+      <point x="1288" y="89" type="line"/>
+      <point x="1280" y="645" type="line"/>
+      <point x="768" y="645" type="line"/>
+      <point x="760" y="89" type="line"/>
+      <point x="631" y="89" type="line"/>
+      <point x="645" y="645" type="line"/>
+      <point x="375" y="645" type="line"/>
+      <point x="375" y="38" type="line"/>
+      <point x="246" y="38" type="line"/>
+      <point x="272" y="768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>645</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1109</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1570</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>259</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>542</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>638</integer>
+            <key>width</key>
+            <integer>126</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>971</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1284</integer>
+            <key>width</key>
+            <integer>126</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1400</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1670</integer>
+            <key>width</key>
+            <integer>115</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

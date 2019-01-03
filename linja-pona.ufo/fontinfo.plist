@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>familyName</key>
+    <string>linja pona 3 OTF</string>
+    <key>styleName</key>
+    <string>Normal</string>
+    <key>styleMapFamilyName</key>
+    <string>linja pona 3 OTF</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2017 by jan Same. All rights reserved.</string>
+    <key>trademark</key>
+    <string>linja pona 3 OTF is a trademark of jan Same.</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>ascender</key>
+    <integer>1638</integer>
+    <key>descender</key>
+    <integer>-410</integer>
+    <key>italicAngle</key>
+    <real>0</real>
+    <key>note</key>
+    <string></string>
+    <key>openTypeHeadCreated</key>
+    <string>1947/02/12 10:37:25</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1843</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-204</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>-204</integer>
+    <key>openTypeNameDesigner</key>
+    <string>jan Same</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://www.musilili.net/</string>
+    <key>openTypeNameManufacturer</key>
+    <string>jan Same</string>
+    <key>openTypeNameLicense</key>
+    <string>SIL OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 3</string>
+    <key>openTypeNameUniqueID</key>
+    <string>linja pona 3 OTF</string>
+    <key>openTypeNameDescription</key>
+    <string>Font created by jan Same with the help of jan Wesi's sitelen pona font, here's a link to jan Wesi's font: http://imgur.com/a/9B6Xx the licence type of the font is SIL OFL.</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>linja pona 3</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string></string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1843</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-204</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>-204</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1844</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>204</integer>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>1228</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
+    <integer>153</integer>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>1228</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>716</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>0</integer>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>450</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>60</integer>
+    </array>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>linjapona3OTF</string>
+    <key>postscriptFullName</key>
+    <string>linja pona 3 OTF</string>
+    <key>postscriptWeightName</key>
+    <string>Normal</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>0</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>0</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-25</integer>
+      <integer>0</integer>
+      <integer>1074</integer>
+      <integer>1091</integer>
+      <integer>1465</integer>
+      <integer>1491</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-420</integer>
+      <integer>-420</integer>
+    </array>
+  </dict>
+</plist>

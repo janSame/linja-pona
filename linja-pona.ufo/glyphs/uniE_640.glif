@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE640" format="1">
+  <advance width="2048"/>
+  <unicode hex="E640"/>
+  <outline>
+    <contour>
+      <point x="1853" y="0" type="line"/>
+      <point x="1731" y="0" type="line"/>
+      <point x="1731" y="819" type="line" smooth="yes"/>
+      <point x="1731" y="1008"/>
+      <point x="1657" y="1185"/>
+      <point x="1524" y="1319" type="curve" smooth="yes"/>
+      <point x="1390" y="1452"/>
+      <point x="1213" y="1526"/>
+      <point x="1024" y="1526" type="curve" smooth="yes"/>
+      <point x="835" y="1526"/>
+      <point x="658" y="1452"/>
+      <point x="524" y="1319" type="curve" smooth="yes"/>
+      <point x="391" y="1185"/>
+      <point x="317" y="1008"/>
+      <point x="317" y="819" type="curve" smooth="yes"/>
+      <point x="317" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="819" type="line" smooth="yes"/>
+      <point x="195" y="931"/>
+      <point x="216" y="1040"/>
+      <point x="260" y="1142" type="curve" smooth="yes"/>
+      <point x="301" y="1241"/>
+      <point x="361" y="1330"/>
+      <point x="437" y="1406" type="curve" smooth="yes"/>
+      <point x="514" y="1482"/>
+      <point x="602" y="1542"/>
+      <point x="701" y="1584" type="curve" smooth="yes"/>
+      <point x="803" y="1627"/>
+      <point x="912" y="1649"/>
+      <point x="1024" y="1649" type="curve" smooth="yes"/>
+      <point x="1136" y="1649"/>
+      <point x="1245" y="1627"/>
+      <point x="1347" y="1584" type="curve" smooth="yes"/>
+      <point x="1446" y="1542"/>
+      <point x="1534" y="1482"/>
+      <point x="1611" y="1406" type="curve" smooth="yes"/>
+      <point x="1687" y="1330"/>
+      <point x="1747" y="1241"/>
+      <point x="1788" y="1142" type="curve" smooth="yes"/>
+      <point x="1832" y="1040"/>
+      <point x="1853" y="931"/>
+      <point x="1853" y="819" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>120</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1437</integer>
+            <key>width</key>
+            <integer>82</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>414</integer>
+            <key>width</key>
+            <integer>82</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1551</integer>
+            <key>width</key>
+            <integer>82</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
