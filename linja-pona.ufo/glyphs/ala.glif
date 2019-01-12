@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ala" format="1">
+  <advance width="2048"/>
+  <unicode hex="E602"/>
+  <outline>
+    <contour>
+      <point x="1024" y="678" type="line"/>
+      <point x="352" y="-42" type="line"/>
+      <point x="262" y="42" type="line"/>
+      <point x="940" y="768" type="line"/>
+      <point x="262" y="1494" type="line"/>
+      <point x="352" y="1578" type="line"/>
+      <point x="1024" y="858" type="line"/>
+      <point x="1696" y="1578" type="line"/>
+      <point x="1786" y="1494" type="line"/>
+      <point x="1108" y="768" type="line"/>
+      <point x="1786" y="42" type="line"/>
+      <point x="1696" y="-42" type="line"/>
+    </contour>
+  </outline>
+</glyph>

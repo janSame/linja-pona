@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="monsuta.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F224"/>
+  <outline>
+    <contour>
+      <point x="241" y="757" type="line"/>
+      <point x="318" y="875"/>
+      <point x="397" y="992"/>
+      <point x="473" y="1111" type="curve"/>
+      <point x="521" y="985"/>
+      <point x="568" y="858"/>
+      <point x="616" y="731" type="curve"/>
+      <point x="685" y="904"/>
+      <point x="755" y="1077"/>
+      <point x="824" y="1250" type="curve"/>
+      <point x="890" y="1049"/>
+      <point x="957" y="849"/>
+      <point x="1024" y="648" type="curve"/>
+      <point x="1091" y="849"/>
+      <point x="1158" y="1049"/>
+      <point x="1224" y="1250" type="curve"/>
+      <point x="1293" y="1077"/>
+      <point x="1363" y="904"/>
+      <point x="1432" y="731" type="curve"/>
+      <point x="1480" y="858"/>
+      <point x="1527" y="985"/>
+      <point x="1575" y="1111" type="curve"/>
+      <point x="1651" y="992"/>
+      <point x="1730" y="875"/>
+      <point x="1807" y="757" type="curve"/>
+      <point x="1805" y="606" type="line"/>
+      <point x="1602" y="891" type="line"/>
+      <point x="1546" y="743"/>
+      <point x="1491" y="595"/>
+      <point x="1435" y="447" type="curve"/>
+      <point x="1368" y="616"/>
+      <point x="1300" y="784"/>
+      <point x="1233" y="952" type="curve"/>
+      <point x="1163" y="743"/>
+      <point x="1094" y="533"/>
+      <point x="1024" y="324" type="curve"/>
+      <point x="954" y="533"/>
+      <point x="885" y="743"/>
+      <point x="815" y="952" type="curve"/>
+      <point x="748" y="784"/>
+      <point x="680" y="616"/>
+      <point x="613" y="447" type="curve"/>
+      <point x="557" y="595"/>
+      <point x="502" y="743"/>
+      <point x="446" y="891" type="curve"/>
+      <point x="242" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+</glyph>

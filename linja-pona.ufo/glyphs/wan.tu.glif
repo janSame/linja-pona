@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wan.tu" format="1">
+  <advance width="2048"/>
+  <unicode hex="E996"/>
+  <outline>
+    <contour>
+      <point x="676" y="-51" type="line"/>
+      <point x="553" y="-51" type="line"/>
+      <point x="553" y="1372" type="line"/>
+      <point x="187" y="1137" type="line"/>
+      <point x="120" y="1240" type="line"/>
+      <point x="676" y="1597" type="line"/>
+    </contour>
+    <contour>
+      <point x="1300" y="-51" type="line"/>
+      <point x="1178" y="-51" type="line"/>
+      <point x="1178" y="1587" type="line"/>
+      <point x="1300" y="1587" type="line"/>
+    </contour>
+    <contour>
+      <point x="1894" y="-51" type="line"/>
+      <point x="1772" y="-51" type="line"/>
+      <point x="1772" y="1587" type="line"/>
+      <point x="1894" y="1587" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>553</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1178</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1772</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

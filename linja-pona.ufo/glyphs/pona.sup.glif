@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pona.sup" format="1">
+  <advance width="2043"/>
+  <unicode hex="E843"/>
+  <outline>
+    <contour>
+      <point x="1024" y="1239" type="curve" smooth="yes"/>
+      <point x="1263" y="1239"/>
+      <point x="1467" y="1413"/>
+      <point x="1467" y="1631" type="curve"/>
+      <point x="1590" y="1631" type="line"/>
+      <point x="1590" y="1470"/>
+      <point x="1511" y="1348"/>
+      <point x="1419" y="1264" type="curve" smooth="yes"/>
+      <point x="1326" y="1181"/>
+      <point x="1188" y="1116"/>
+      <point x="1024" y="1116" type="curve" smooth="yes"/>
+      <point x="775" y="1116"/>
+      <point x="587" y="1256"/>
+      <point x="505" y="1428" type="curve" smooth="yes"/>
+      <point x="474" y="1492"/>
+      <point x="458" y="1560"/>
+      <point x="458" y="1631" type="curve"/>
+      <point x="581" y="1631" type="line"/>
+      <point x="581" y="1413"/>
+      <point x="785" y="1239"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1415" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1116</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>458</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1467</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

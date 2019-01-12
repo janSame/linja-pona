@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="monsuta" format="1">
+  <advance width="2048"/>
+  <unicode hex="E693"/>
+  <outline>
+    <contour>
+      <point x="1024" y="227" type="line"/>
+      <point x="767" y="945" type="line"/>
+      <point x="569" y="399" type="line"/>
+      <point x="355" y="880" type="line"/>
+      <point x="208" y="587" type="line"/>
+      <point x="99" y="642" type="line"/>
+      <point x="362" y="1168" type="line"/>
+      <point x="557" y="727" type="line"/>
+      <point x="769" y="1308" type="line"/>
+      <point x="1024" y="592" type="line"/>
+      <point x="1279" y="1308" type="line"/>
+      <point x="1491" y="727" type="line"/>
+      <point x="1686" y="1168" type="line"/>
+      <point x="1949" y="642" type="line"/>
+      <point x="1840" y="587" type="line"/>
+      <point x="1693" y="880" type="line"/>
+      <point x="1479" y="399" type="line"/>
+      <point x="1281" y="945" type="line"/>
+    </contour>
+  </outline>
+</glyph>

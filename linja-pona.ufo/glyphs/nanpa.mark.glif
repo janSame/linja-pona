@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nanpa.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F162"/>
+  <outline>
+    <contour>
+      <point x="1282" y="1311" type="line"/>
+      <point x="1282" y="1051" type="line"/>
+      <point x="1542" y="1051" type="line"/>
+      <point x="1542" y="939" type="line"/>
+      <point x="1282" y="939" type="line"/>
+      <point x="1282" y="649" type="line"/>
+      <point x="1542" y="649" type="line"/>
+      <point x="1542" y="536" type="line"/>
+      <point x="1282" y="536" type="line"/>
+      <point x="1282" y="276" type="line"/>
+      <point x="1169" y="276" type="line"/>
+      <point x="1169" y="536" type="line"/>
+      <point x="879" y="536" type="line"/>
+      <point x="879" y="276" type="line"/>
+      <point x="766" y="276" type="line"/>
+      <point x="766" y="536" type="line"/>
+      <point x="506" y="536" type="line"/>
+      <point x="506" y="649" type="line"/>
+      <point x="766" y="649" type="line"/>
+      <point x="766" y="939" type="line"/>
+      <point x="506" y="939" type="line"/>
+      <point x="506" y="1051" type="line"/>
+      <point x="766" y="1051" type="line"/>
+      <point x="766" y="1311" type="line"/>
+      <point x="879" y="1311" type="line"/>
+      <point x="879" y="1051" type="line"/>
+      <point x="1169" y="1051" type="line"/>
+      <point x="1169" y="1311" type="line"/>
+    </contour>
+    <contour>
+      <point x="1169" y="649" type="line"/>
+      <point x="1169" y="939" type="line"/>
+      <point x="879" y="939" type="line"/>
+      <point x="879" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>536</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>939</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>766</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1169</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

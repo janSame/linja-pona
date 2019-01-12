@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tomo" format="1">
+  <advance width="2048"/>
+  <unicode hex="E66D"/>
+  <outline>
+    <contour>
+      <point x="1905" y="-61" type="line"/>
+      <point x="143" y="-61" type="line"/>
+      <point x="143" y="897" type="line"/>
+      <point x="1024" y="1723" type="line"/>
+      <point x="1905" y="897" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="61" type="line"/>
+      <point x="1782" y="61" type="line"/>
+      <point x="1782" y="844" type="line"/>
+      <point x="1024" y="1554" type="line"/>
+      <point x="266" y="844" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="666" type="move" name="Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-61</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>143</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1782</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

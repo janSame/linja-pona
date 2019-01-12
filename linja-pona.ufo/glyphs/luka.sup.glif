@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luka.sup" format="1">
+  <advance width="2048"/>
+  <unicode hex="E851"/>
+  <outline>
+    <contour>
+      <point x="1111" y="1698" type="curve" smooth="yes"/>
+      <point x="1534" y="1698"/>
+      <point x="1792" y="1454"/>
+      <point x="1792" y="1022" type="curve" smooth="yes"/>
+      <point x="1792" y="817" type="line"/>
+      <point x="1741" y="817" type="line"/>
+      <point x="1741" y="819" type="line"/>
+      <point x="1669" y="819" type="line"/>
+      <point x="1669" y="1022" type="line" smooth="yes"/>
+      <point x="1669" y="1229"/>
+      <point x="1597" y="1575"/>
+      <point x="1111" y="1575" type="curve" smooth="yes"/>
+      <point x="626" y="1575"/>
+      <point x="553" y="1229"/>
+      <point x="553" y="1022" type="curve" smooth="yes"/>
+      <point x="553" y="819" type="line"/>
+      <point x="504" y="819" type="line"/>
+      <point x="150" y="1184" type="line"/>
+      <point x="239" y="1270" type="line"/>
+      <point x="432" y="1070" type="line"/>
+      <point x="449" y="1469"/>
+      <point x="703" y="1698"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1350" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1575</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>432</integer>
+            <key>width</key>
+            <integer>121</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1669</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

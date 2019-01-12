@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="supa.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F202"/>
+  <outline>
+    <contour>
+      <point x="449" y="983" type="line"/>
+      <point x="449" y="1087" type="line"/>
+      <point x="1599" y="1087" type="line"/>
+      <point x="1599" y="983" type="line"/>
+      <point x="1416" y="983" type="line"/>
+      <point x="1438" y="459" type="line"/>
+      <point x="1334" y="459" type="line"/>
+      <point x="1312" y="983" type="line"/>
+      <point x="736" y="983" type="line"/>
+      <point x="714" y="459" type="line"/>
+      <point x="610" y="459" type="line"/>
+      <point x="632" y="983" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>983</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>610</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>632</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1312</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1334</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

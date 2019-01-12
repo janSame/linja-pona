@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="selo.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F189"/>
+  <outline>
+    <contour>
+      <point x="543" y="1295" type="line"/>
+      <point x="1501" y="1295" type="line"/>
+      <point x="1522" y="364" type="line"/>
+      <point x="1411" y="364" type="line"/>
+      <point x="1407" y="1188" type="line"/>
+      <point x="1274" y="1188" type="line"/>
+      <point x="1283" y="395" type="line"/>
+      <point x="1172" y="395" type="line"/>
+      <point x="1167" y="1188" type="line"/>
+      <point x="881" y="1188" type="line"/>
+      <point x="876" y="395" type="line"/>
+      <point x="765" y="395" type="line"/>
+      <point x="774" y="1188" type="line"/>
+      <point x="637" y="1188" type="line"/>
+      <point x="637" y="364" type="line"/>
+      <point x="526" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1188</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>543</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>765</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1172</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1407</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1411</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

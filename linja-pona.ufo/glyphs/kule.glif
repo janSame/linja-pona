@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kule" format="1">
+  <advance width="2048"/>
+  <unicode hex="E61E"/>
+  <outline>
+    <contour>
+      <point x="1846" y="778" type="line"/>
+      <point x="1846" y="655" type="line"/>
+      <point x="1566" y="655" type="line"/>
+      <point x="1950" y="-61" type="line"/>
+      <point x="98" y="-61" type="line"/>
+      <point x="482" y="655" type="line"/>
+      <point x="202" y="655" type="line"/>
+      <point x="202" y="778" type="line"/>
+      <point x="548" y="778" type="line"/>
+      <point x="1024" y="1666" type="line"/>
+      <point x="1500" y="778" type="line"/>
+    </contour>
+    <contour>
+      <point x="621" y="655" type="line"/>
+      <point x="303" y="61" type="line"/>
+      <point x="1745" y="61" type="line"/>
+      <point x="1426" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="1024" y="1406" type="line"/>
+      <point x="687" y="778" type="line"/>
+      <point x="1360" y="778" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-61</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>655</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

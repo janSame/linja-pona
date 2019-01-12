@@ -24,11 +24,8 @@
       <point x="664" y="24"/>
       <point x="549" y="-20"/>
       <point x="384" y="-20" type="curve" smooth="yes"/>
-      <point x="289" y="-20"/>
-      <point x="210" y="8"/>
-      <point x="149" y="65" type="curve" smooth="yes"/>
-      <point x="88" y="122"/>
-      <point x="55" y="198"/>
+      <point x="189" y="-20"/>
+      <point x="61" y="107"/>
     </contour>
   </outline>
   <lib>
@@ -43,21 +40,15 @@
             <key>width</key>
             <integer>180</integer>
           </dict>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>313</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1445</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
         </array>
         <key>vhints</key>
         <array>
+          <dict>
+            <key>position</key>
+            <integer>49</integer>
+            <key>width</key>
+            <integer>175</integer>
+          </dict>
           <dict>
             <key>position</key>
             <integer>626</integer>

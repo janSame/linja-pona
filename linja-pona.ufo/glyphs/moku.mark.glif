@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="moku.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F155"/>
+  <outline>
+    <contour>
+      <point x="835" y="818" type="curve"/>
+      <point x="705" y="907"/>
+      <point x="618" y="1079"/>
+      <point x="618" y="1274" type="curve" smooth="yes"/>
+      <point x="618" y="1329" type="line"/>
+      <point x="1472" y="1329" type="line"/>
+      <point x="1472" y="1274" type="line" smooth="yes"/>
+      <point x="1472" y="1079"/>
+      <point x="1384" y="903"/>
+      <point x="1252" y="817" type="curve"/>
+      <point x="1388" y="753"/>
+      <point x="1472" y="629"/>
+      <point x="1472" y="431" type="curve" smooth="yes"/>
+      <point x="1472" y="289" type="line"/>
+      <point x="1361" y="289" type="line"/>
+      <point x="1361" y="431" type="line" smooth="yes"/>
+      <point x="1361" y="488"/>
+      <point x="1351" y="569"/>
+      <point x="1306" y="635" type="curve" smooth="yes"/>
+      <point x="1253" y="709"/>
+      <point x="1165" y="747"/>
+      <point x="1042" y="747" type="curve" smooth="yes"/>
+      <point x="919" y="747"/>
+      <point x="831" y="709"/>
+      <point x="778" y="635" type="curve" smooth="yes"/>
+      <point x="733" y="569"/>
+      <point x="723" y="488"/>
+      <point x="723" y="431" type="curve" smooth="yes"/>
+      <point x="723" y="289" type="line"/>
+      <point x="668" y="289" type="line"/>
+      <point x="435" y="530" type="line"/>
+      <point x="515" y="607" type="line"/>
+      <point x="616" y="502" type="line"/>
+      <point x="634" y="659"/>
+      <point x="713" y="766"/>
+    </contour>
+    <contour>
+      <point x="732" y="1218" type="line"/>
+      <point x="749" y="1042"/>
+      <point x="867" y="864"/>
+      <point x="1045" y="864" type="curve" smooth="yes"/>
+      <point x="1223" y="864"/>
+      <point x="1341" y="1042"/>
+      <point x="1358" y="1218" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>747</integer>
+            <key>width</key>
+            <integer>117</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1218</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1361</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

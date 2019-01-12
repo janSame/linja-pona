@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="supa.base" format="1">
+  <advance width="2048"/>
+  <unicode hex="E945"/>
+  <outline>
+    <contour>
+      <point x="1894" y="666" type="line"/>
+      <point x="1894" y="543" type="line"/>
+      <point x="1612" y="543" type="line"/>
+      <point x="1644" y="-51" type="line"/>
+      <point x="1521" y="-51" type="line"/>
+      <point x="1489" y="543" type="line"/>
+      <point x="559" y="543" type="line"/>
+      <point x="527" y="-51" type="line"/>
+      <point x="404" y="-51" type="line"/>
+      <point x="436" y="543" type="line"/>
+      <point x="154" y="543" type="line"/>
+      <point x="154" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1230" type="move" name="Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>543</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

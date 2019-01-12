@@ -4,15 +4,9 @@
   <unicode hex="00A3"/>
   <outline>
     <contour>
-      <point x="140" y="707" type="line"/>
-      <point x="140" y="856" type="line"/>
-      <point x="222" y="856" type="line"/>
       <point x="222" y="1004" type="line" smooth="yes"/>
-      <point x="222" y="1159"/>
-      <point x="259" y="1279"/>
-      <point x="334" y="1364" type="curve" smooth="yes"/>
-      <point x="409" y="1449"/>
-      <point x="507" y="1491"/>
+      <point x="222" y="1286"/>
+      <point x="362" y="1491"/>
       <point x="629" y="1491" type="curve" smooth="yes"/>
       <point x="766" y="1491"/>
       <point x="863" y="1451"/>
@@ -43,6 +37,9 @@
       <point x="222" y="202"/>
       <point x="222" y="268" type="curve" smooth="yes"/>
       <point x="222" y="707" type="line"/>
+      <point x="140" y="707" type="line"/>
+      <point x="140" y="856" type="line"/>
+      <point x="222" y="856" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -59,6 +56,12 @@
           </dict>
           <dict>
             <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>139</integer>
+          </dict>
+          <dict>
+            <key>position</key>
             <integer>707</integer>
             <key>width</key>
             <integer>149</integer>
@@ -72,12 +75,6 @@
         </array>
         <key>vhints</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>140</integer>
-            <key>width</key>
-            <integer>481</integer>
-          </dict>
           <dict>
             <key>position</key>
             <integer>222</integer>

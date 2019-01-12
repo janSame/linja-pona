@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kama.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F123"/>
+  <outline>
+    <contour>
+      <point x="1293" y="339" type="line"/>
+      <point x="1218" y="436" type="line"/>
+      <point x="1400" y="576" type="line"/>
+      <point x="1067" y="1129" type="line"/>
+      <point x="848" y="399" type="line"/>
+      <point x="526" y="399" type="line"/>
+      <point x="526" y="522" type="line"/>
+      <point x="757" y="522" type="line"/>
+      <point x="1030" y="1431" type="line"/>
+      <point x="1562" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>399</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

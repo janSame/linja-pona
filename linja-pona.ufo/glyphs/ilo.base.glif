@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ilo.base" format="1">
+  <advance width="2048"/>
+  <unicode hex="E718"/>
+  <outline>
+    <contour>
+      <point x="1833" y="829" type="line"/>
+      <point x="1833" y="195" type="line"/>
+      <point x="1085" y="195" type="line"/>
+      <point x="1085" y="-51" type="line"/>
+      <point x="963" y="-51" type="line"/>
+      <point x="963" y="195" type="line"/>
+      <point x="213" y="195" type="line"/>
+      <point x="213" y="829" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="317" type="line"/>
+      <point x="963" y="317" type="line"/>
+      <point x="963" y="707" type="line"/>
+      <point x="335" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="1710" y="317" type="line"/>
+      <point x="1710" y="707" type="line"/>
+      <point x="1085" y="707" type="line"/>
+      <point x="1085" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1350" type="move" name="Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>195</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>707</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>213</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>963</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1710</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

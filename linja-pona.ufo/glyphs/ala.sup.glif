@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ala.sup" format="1">
+  <advance width="2048"/>
+  <unicode hex="F064"/>
+  <outline>
+    <contour>
+      <point x="714" y="1176" type="line"/>
+      <point x="650" y="1281" type="line"/>
+      <point x="905" y="1436" type="line"/>
+      <point x="650" y="1592" type="line"/>
+      <point x="714" y="1697" type="line"/>
+      <point x="1024" y="1508" type="line"/>
+      <point x="1333" y="1697" type="line"/>
+      <point x="1397" y="1592" type="line"/>
+      <point x="1142" y="1436" type="line"/>
+      <point x="1397" y="1281" type="line"/>
+      <point x="1333" y="1176" type="line"/>
+      <point x="1024" y="1365" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1430" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1176</integer>
+            <key>width</key>
+            <integer>521</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

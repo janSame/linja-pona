@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pimeja.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F180"/>
+  <outline>
+    <contour>
+      <point x="403" y="423" type="line"/>
+      <point x="1024" y="1439" type="line"/>
+      <point x="1645" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="1153" y="1013" type="line"/>
+      <point x="1024" y="1223" type="line"/>
+      <point x="895" y="1013" type="line"/>
+      <point x="1024" y="856" type="line"/>
+    </contour>
+    <contour>
+      <point x="839" y="920" type="line"/>
+      <point x="604" y="536" type="line"/>
+      <point x="760" y="536" type="line"/>
+      <point x="958" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="1024" y="696" type="line"/>
+      <point x="893" y="536" type="line"/>
+      <point x="1155" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="1288" y="536" type="line"/>
+      <point x="1444" y="536" type="line"/>
+      <point x="1209" y="920" type="line"/>
+      <point x="1090" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>423</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

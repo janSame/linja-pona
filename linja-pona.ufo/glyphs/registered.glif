@@ -72,21 +72,18 @@
       <point x="892" y="629" type="curve"/>
     </contour>
     <contour>
+      <point x="737" y="705" type="curve" smooth="yes"/>
+      <point x="875" y="705"/>
+      <point x="933" y="722"/>
+      <point x="933" y="847" type="curve" smooth="yes"/>
+      <point x="933" y="938"/>
+      <point x="873" y="984"/>
+      <point x="753" y="984" type="curve" smooth="yes"/>
       <point x="706" y="984" type="line"/>
       <point x="659" y="983" type="line"/>
       <point x="659" y="707" type="line"/>
       <point x="669" y="706"/>
       <point x="695" y="705"/>
-      <point x="737" y="705" type="curve" smooth="yes"/>
-      <point x="814" y="705"/>
-      <point x="866" y="715"/>
-      <point x="893" y="734" type="curve" smooth="yes"/>
-      <point x="920" y="754"/>
-      <point x="933" y="792"/>
-      <point x="933" y="847" type="curve" smooth="yes"/>
-      <point x="933" y="938"/>
-      <point x="873" y="984"/>
-      <point x="753" y="984" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -103,9 +100,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>254</integer>
+            <integer>611</integer>
             <key>width</key>
-            <integer>451</integer>
+            <integer>94</integer>
           </dict>
           <dict>
             <key>position</key>

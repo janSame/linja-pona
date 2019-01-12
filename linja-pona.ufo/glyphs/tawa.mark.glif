@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tawa.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F206"/>
+  <outline>
+    <contour>
+      <point x="755" y="339" type="line"/>
+      <point x="486" y="546" type="line"/>
+      <point x="1018" y="1431" type="line"/>
+      <point x="1291" y="522" type="line"/>
+      <point x="1522" y="522" type="line"/>
+      <point x="1522" y="399" type="line"/>
+      <point x="1200" y="399" type="line"/>
+      <point x="981" y="1129" type="line"/>
+      <point x="648" y="576" type="line"/>
+      <point x="830" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>399</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

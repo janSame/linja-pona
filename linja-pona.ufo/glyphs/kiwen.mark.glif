@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kiwen.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F128"/>
+  <outline>
+    <contour>
+      <point x="1024" y="108" type="line"/>
+      <point x="366" y="805" type="line"/>
+      <point x="717" y="1351" type="line"/>
+      <point x="1331" y="1351" type="line"/>
+      <point x="1682" y="805" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="818" type="line"/>
+      <point x="1024" y="272" type="line"/>
+      <point x="1540" y="818" type="line"/>
+      <point x="1270" y="1239" type="line"/>
+      <point x="778" y="1239" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1239</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

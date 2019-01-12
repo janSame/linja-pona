@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taso" format="1">
+  <advance width="2048"/>
+  <unicode hex="E668"/>
+  <outline>
+    <contour>
+      <point x="1485" y="1690" type="line"/>
+      <point x="1485" y="-51" type="line"/>
+      <point x="1362" y="-51" type="line"/>
+      <point x="1362" y="759" type="line"/>
+      <point x="389" y="759" type="line"/>
+      <point x="389" y="882" type="line"/>
+      <point x="1362" y="882" type="line"/>
+      <point x="1362" y="1690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>759</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1362</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

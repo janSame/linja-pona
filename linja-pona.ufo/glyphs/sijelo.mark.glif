@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sijelo.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F192"/>
+  <outline>
+    <contour>
+      <point x="564" y="358" type="line"/>
+      <point x="564" y="1285" type="line"/>
+      <point x="1484" y="1285" type="line"/>
+      <point x="1484" y="358" type="line"/>
+      <point x="1372" y="358" type="line"/>
+      <point x="1372" y="1172" type="line"/>
+      <point x="1080" y="1172" type="line"/>
+      <point x="1080" y="396" type="line"/>
+      <point x="968" y="396" type="line"/>
+      <point x="968" y="1172" type="line"/>
+      <point x="676" y="1172" type="line"/>
+      <point x="676" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1172</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>564</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>968</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1372</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

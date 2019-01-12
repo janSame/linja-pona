@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ala.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F103"/>
+  <outline>
+    <contour>
+      <point x="1443" y="1270" type="line"/>
+      <point x="1527" y="1181" type="line"/>
+      <point x="1114" y="794" type="line"/>
+      <point x="1527" y="406" type="line"/>
+      <point x="1443" y="317" type="line"/>
+      <point x="1024" y="709" type="line"/>
+      <point x="605" y="317" type="line"/>
+      <point x="521" y="406" type="line"/>
+      <point x="934" y="794" type="line"/>
+      <point x="521" y="1181" type="line"/>
+      <point x="605" y="1270" type="line"/>
+      <point x="1024" y="878" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+</glyph>

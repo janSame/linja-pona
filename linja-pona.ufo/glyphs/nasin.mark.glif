@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nasin.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F164"/>
+  <outline>
+    <contour>
+      <point x="1080" y="1434" type="line"/>
+      <point x="1080" y="1040" type="line"/>
+      <point x="1544" y="613" type="line"/>
+      <point x="1467" y="530" type="line"/>
+      <point x="1080" y="887" type="line"/>
+      <point x="1080" y="154" type="line"/>
+      <point x="968" y="154" type="line"/>
+      <point x="968" y="887" type="line"/>
+      <point x="581" y="530" type="line"/>
+      <point x="504" y="613" type="line"/>
+      <point x="968" y="1040" type="line"/>
+      <point x="968" y="1434" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>968</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

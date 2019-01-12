@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tu.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F211"/>
+  <outline>
+    <contour>
+      <point x="829" y="347" type="line"/>
+      <point x="707" y="347" type="line"/>
+      <point x="707" y="1240" type="line"/>
+      <point x="829" y="1240" type="line"/>
+    </contour>
+    <contour>
+      <point x="1341" y="347" type="line"/>
+      <point x="1219" y="347" type="line"/>
+      <point x="1219" y="1240" type="line"/>
+      <point x="1341" y="1240" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>707</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1219</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

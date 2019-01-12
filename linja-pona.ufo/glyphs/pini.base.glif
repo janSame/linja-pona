@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pini.base" format="1">
+  <advance width="2048"/>
+  <unicode hex="F02A"/>
+  <outline>
+    <contour>
+      <point x="1638" y="56" type="line"/>
+      <point x="1638" y="-56" type="line"/>
+      <point x="410" y="-56" type="line"/>
+      <point x="410" y="56" type="line"/>
+      <point x="968" y="56" type="line"/>
+      <point x="968" y="558" type="line"/>
+      <point x="410" y="558" type="line"/>
+      <point x="410" y="671" type="line"/>
+      <point x="1638" y="671" type="line"/>
+      <point x="1638" y="558" type="line"/>
+      <point x="1080" y="558" type="line"/>
+      <point x="1080" y="56" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1165" type="move" name="Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-56</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>558</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>968</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

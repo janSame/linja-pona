@@ -30,21 +30,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
             <integer>399</integer>
             <key>width</key>
             <integer>154</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1451</integer>
-            <key>width</key>
-            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>

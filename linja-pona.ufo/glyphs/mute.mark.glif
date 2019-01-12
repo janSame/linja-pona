@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mute.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F161"/>
+  <outline>
+    <contour>
+      <point x="1085" y="384" type="line"/>
+      <point x="963" y="384" type="line"/>
+      <point x="963" y="1203" type="line"/>
+      <point x="1085" y="1203" type="line"/>
+    </contour>
+    <contour>
+      <point x="1469" y="410" type="line"/>
+      <point x="1347" y="410" type="line"/>
+      <point x="1347" y="1178" type="line"/>
+      <point x="1469" y="1178" type="line"/>
+    </contour>
+    <contour>
+      <point x="701" y="410" type="line"/>
+      <point x="579" y="410" type="line"/>
+      <point x="579" y="1178" type="line"/>
+      <point x="701" y="1178" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>579</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>963</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1347</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

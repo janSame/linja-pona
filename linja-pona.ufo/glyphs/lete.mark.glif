@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lete.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F139"/>
+  <outline>
+    <contour>
+      <point x="1440" y="1255" type="line"/>
+      <point x="1137" y="850" type="line"/>
+      <point x="1550" y="850" type="line"/>
+      <point x="1550" y="737" type="line"/>
+      <point x="1137" y="737" type="line"/>
+      <point x="1440" y="332" type="line"/>
+      <point x="1350" y="264" type="line"/>
+      <point x="1024" y="700" type="line"/>
+      <point x="698" y="264" type="line"/>
+      <point x="608" y="332" type="line"/>
+      <point x="911" y="737" type="line"/>
+      <point x="498" y="737" type="line"/>
+      <point x="498" y="850" type="line"/>
+      <point x="911" y="850" type="line"/>
+      <point x="608" y="1255" type="line"/>
+      <point x="698" y="1323" type="line"/>
+      <point x="1024" y="888" type="line"/>
+      <point x="1350" y="1323" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>737</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

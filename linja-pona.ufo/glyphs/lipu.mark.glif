@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lipu.mark" format="1">
+  <advance width="2048"/>
+  <unicode hex="F143"/>
+  <outline>
+    <contour>
+      <point x="1434" y="271" type="line"/>
+      <point x="614" y="271" type="line"/>
+      <point x="614" y="1316" type="line"/>
+      <point x="1434" y="1316" type="line"/>
+    </contour>
+    <contour>
+      <point x="737" y="394" type="line"/>
+      <point x="1311" y="394" type="line"/>
+      <point x="1311" y="1193" type="line"/>
+      <point x="737" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="1025" y="800" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>271</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1193</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>614</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1311</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

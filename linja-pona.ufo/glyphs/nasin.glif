@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nasin" format="1">
+  <advance width="2048"/>
+  <unicode hex="E63F"/>
+  <outline>
+    <contour>
+      <point x="1731" y="610" type="line"/>
+      <point x="1648" y="520" type="line"/>
+      <point x="1085" y="1039" type="line"/>
+      <point x="1085" y="0" type="line"/>
+      <point x="963" y="0" type="line"/>
+      <point x="963" y="1039" type="line"/>
+      <point x="400" y="520" type="line"/>
+      <point x="317" y="610" type="line"/>
+      <point x="963" y="1206" type="line"/>
+      <point x="963" y="1634" type="line"/>
+      <point x="1085" y="1634" type="line"/>
+      <point x="1085" y="1206" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>963</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -47,33 +47,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-35</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
             <integer>210</integer>
             <key>width</key>
             <integer>102</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1458</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1471</integer>
-            <key>width</key>
-            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>

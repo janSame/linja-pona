@@ -23,6 +23,15 @@
             <integer>96</integer>
           </dict>
         </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>93</integer>
+            <key>width</key>
+            <integer>521</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>
