@@ -33,3 +33,9 @@ e.g.: *ma [_kasi_alasa_nasin_awen_telo_aa] li suli*
 First enable ligatures and then check this box in font settings (Right click > Font.... > Advanced tab):
 
 ![screenshot from jan Nijata](images/msword.png)
+
+### MacOS
+
+1. Download the desired OTF file
+2. Open the "Font Book" application
+3. Select "File" > "Add Font" and select the downloaded OTF file
