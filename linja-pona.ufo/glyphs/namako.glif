@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="namako" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E694"/>
   <outline>
     <contour>
-      <point x="768" y="829" type="line"/>
-      <point x="768" y="707" type="line"/>
-      <point x="154" y="707" type="line"/>
-      <point x="154" y="829" type="line"/>
+      <point x="312" y="337" type="line"/>
+      <point x="312" y="288" type="line"/>
+      <point x="63" y="288" type="line"/>
+      <point x="63" y="337" type="line"/>
     </contour>
     <contour>
-      <point x="1894" y="829" type="line"/>
-      <point x="1894" y="707" type="line"/>
-      <point x="1280" y="707" type="line"/>
-      <point x="1280" y="829" type="line"/>
+      <point x="771" y="337" type="line"/>
+      <point x="771" y="288" type="line"/>
+      <point x="521" y="288" type="line"/>
+      <point x="521" y="337" type="line"/>
     </contour>
     <contour>
-      <point x="1085" y="1587" type="line"/>
-      <point x="1085" y="1024" type="line"/>
-      <point x="963" y="1024" type="line"/>
-      <point x="963" y="1587" type="line"/>
+      <point x="441" y="646" type="line"/>
+      <point x="441" y="417" type="line"/>
+      <point x="392" y="417" type="line"/>
+      <point x="392" y="646" type="line"/>
     </contour>
     <contour>
-      <point x="1085" y="512" type="line"/>
-      <point x="1085" y="0" type="line"/>
-      <point x="963" y="0" type="line"/>
-      <point x="963" y="512" type="line"/>
+      <point x="441" y="208" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="208" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,18 +36,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>707</integer>
+            <integer>288</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>963</integer>
+            <integer>392</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
         </array>
       </dict>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="poki" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E653"/>
   <outline>
     <contour>
-      <point x="1751" y="-61" type="line"/>
-      <point x="297" y="-61" type="line"/>
-      <point x="297" y="1587" type="line"/>
-      <point x="420" y="1587" type="line"/>
-      <point x="420" y="61" type="line"/>
-      <point x="1628" y="61" type="line"/>
-      <point x="1628" y="1587" type="line"/>
-      <point x="1751" y="1587" type="line"/>
+      <point x="712" y="-25" type="line"/>
+      <point x="121" y="-25" type="line"/>
+      <point x="121" y="646" type="line"/>
+      <point x="171" y="646" type="line"/>
+      <point x="171" y="25" type="line"/>
+      <point x="662" y="25" type="line"/>
+      <point x="662" y="646" type="line"/>
+      <point x="712" y="646" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="800" type="move" name="Anchor"/>
+      <point x="417" y="325" type="move" name="Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -25,24 +25,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-61</integer>
+            <integer>-25</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>297</integer>
+            <integer>121</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1628</integer>
+            <integer>662</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

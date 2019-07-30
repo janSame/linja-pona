@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sona.mark.small" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E961"/>
   <outline>
     <contour>
-      <point x="1080" y="979" type="line"/>
-      <point x="968" y="979" type="line"/>
-      <point x="968" y="1197" type="line"/>
-      <point x="1080" y="1197" type="line"/>
+      <point x="439" y="398" type="line"/>
+      <point x="394" y="398" type="line"/>
+      <point x="394" y="487" type="line"/>
+      <point x="439" y="487" type="line"/>
     </contour>
     <contour>
-      <point x="1278" y="902" type="line"/>
-      <point x="1201" y="985" type="line"/>
-      <point x="1344" y="1117" type="line"/>
-      <point x="1420" y="1034" type="line"/>
+      <point x="520" y="367" type="line"/>
+      <point x="489" y="401" type="line"/>
+      <point x="547" y="454" type="line"/>
+      <point x="578" y="421" type="line"/>
     </contour>
     <contour>
-      <point x="770" y="902" type="line"/>
-      <point x="628" y="1034" type="line"/>
-      <point x="704" y="1117" type="line"/>
-      <point x="847" y="985" type="line"/>
+      <point x="313" y="367" type="line"/>
+      <point x="255" y="421" type="line"/>
+      <point x="286" y="454" type="line"/>
+      <point x="345" y="401" type="line"/>
     </contour>
     <contour>
-      <point x="1345" y="200" type="line"/>
-      <point x="703" y="200" type="line"/>
-      <point x="703" y="817" type="line"/>
-      <point x="1345" y="817" type="line"/>
+      <point x="547" y="81" type="line"/>
+      <point x="286" y="81" type="line"/>
+      <point x="286" y="332" type="line"/>
+      <point x="547" y="332" type="line"/>
     </contour>
     <contour>
-      <point x="816" y="312" type="line"/>
-      <point x="1232" y="312" type="line"/>
-      <point x="1232" y="704" type="line"/>
-      <point x="816" y="704" type="line"/>
+      <point x="332" y="127" type="line"/>
+      <point x="501" y="127" type="line"/>
+      <point x="501" y="286" type="line"/>
+      <point x="332" y="286" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="660" type="move" name="_Anchor"/>
+      <point x="417" y="269" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -45,42 +45,42 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>200</integer>
+            <integer>81</integer>
             <key>width</key>
-            <integer>112</integer>
+            <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>704</integer>
+            <integer>286</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>979</integer>
+            <integer>398</integer>
             <key>width</key>
-            <integer>218</integer>
+            <integer>89</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>703</integer>
+            <integer>286</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>968</integer>
+            <integer>394</integer>
             <key>width</key>
-            <integer>112</integer>
+            <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1232</integer>
+            <integer>501</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>46</integer>
           </dict>
         </array>
       </dict>

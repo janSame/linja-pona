@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="utala" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E671"/>
   <outline>
     <contour>
-      <point x="1024" y="692" type="line"/>
-      <point x="448" y="-67" type="line"/>
-      <point x="98" y="691" type="line"/>
-      <point x="209" y="743" type="line"/>
-      <point x="474" y="170" type="line"/>
-      <point x="947" y="794" type="line"/>
-      <point x="412" y="1499" type="line"/>
-      <point x="510" y="1573" type="line"/>
-      <point x="1024" y="895" type="line"/>
-      <point x="1538" y="1573" type="line"/>
-      <point x="1636" y="1499" type="line"/>
-      <point x="1101" y="794" type="line"/>
-      <point x="1574" y="170" type="line"/>
-      <point x="1839" y="743" type="line"/>
-      <point x="1950" y="691" type="line"/>
-      <point x="1600" y="-67" type="line"/>
+      <point x="417" y="282" type="line"/>
+      <point x="182" y="-27" type="line"/>
+      <point x="40" y="281" type="line"/>
+      <point x="85" y="302" type="line"/>
+      <point x="193" y="69" type="line"/>
+      <point x="385" y="323" type="line"/>
+      <point x="168" y="610" type="line"/>
+      <point x="207" y="640" type="line"/>
+      <point x="417" y="364" type="line"/>
+      <point x="626" y="640" type="line"/>
+      <point x="666" y="610" type="line"/>
+      <point x="448" y="323" type="line"/>
+      <point x="640" y="69" type="line"/>
+      <point x="748" y="302" type="line"/>
+      <point x="793" y="281" type="line"/>
+      <point x="651" y="-27" type="line"/>
     </contour>
   </outline>
 </glyph>

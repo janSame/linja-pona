@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="overscore" format="1">
-  <advance width="1074"/>
+  <advance width="436"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="1077" y="1600" type="line"/>
-      <point x="-8" y="1600" type="line"/>
-      <point x="-8" y="1729" type="line"/>
-      <point x="1077" y="1729" type="line"/>
+      <point x="438" y="651" type="line"/>
+      <point x="-3" y="651" type="line"/>
+      <point x="-3" y="703" type="line"/>
+      <point x="438" y="703" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,9 +18,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1600</integer>
+            <integer>651</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>52</integer>
           </dict>
         </array>
       </dict>

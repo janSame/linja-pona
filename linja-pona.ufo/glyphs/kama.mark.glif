@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kama.mark" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F123"/>
   <outline>
     <contour>
-      <point x="1293" y="339" type="line"/>
-      <point x="1218" y="436" type="line"/>
-      <point x="1400" y="576" type="line"/>
-      <point x="1067" y="1129" type="line"/>
-      <point x="848" y="399" type="line"/>
-      <point x="526" y="399" type="line"/>
-      <point x="526" y="522" type="line"/>
-      <point x="757" y="522" type="line"/>
-      <point x="1030" y="1431" type="line"/>
-      <point x="1562" y="546" type="line"/>
+      <point x="526" y="138" type="line"/>
+      <point x="496" y="177" type="line"/>
+      <point x="570" y="234" type="line"/>
+      <point x="434" y="459" type="line"/>
+      <point x="345" y="162" type="line"/>
+      <point x="214" y="162" type="line"/>
+      <point x="214" y="212" type="line"/>
+      <point x="308" y="212" type="line"/>
+      <point x="419" y="582" type="line"/>
+      <point x="635" y="222" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="800" type="move" name="_Anchor"/>
+      <point x="417" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -27,9 +27,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>399</integer>
+            <integer>162</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

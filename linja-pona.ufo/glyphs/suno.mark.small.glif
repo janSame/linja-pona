@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="suno.mark.small" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F038"/>
   <outline>
     <contour>
-      <point x="1085" y="1314" type="line"/>
-      <point x="1278" y="1288"/>
-      <point x="1436" y="1130"/>
-      <point x="1462" y="937" type="curve"/>
-      <point x="1587" y="937" type="line"/>
-      <point x="1587" y="814" type="line"/>
-      <point x="1462" y="814" type="line"/>
-      <point x="1435" y="622"/>
-      <point x="1278" y="464"/>
-      <point x="1085" y="438" type="curve"/>
-      <point x="1085" y="307" type="line"/>
-      <point x="963" y="307" type="line"/>
-      <point x="963" y="438" type="line"/>
-      <point x="770" y="464"/>
-      <point x="613" y="622"/>
-      <point x="586" y="814" type="curve"/>
-      <point x="461" y="814" type="line"/>
-      <point x="461" y="937" type="line"/>
-      <point x="586" y="937" type="line"/>
-      <point x="612" y="1130"/>
-      <point x="770" y="1288"/>
-      <point x="963" y="1314" type="curve"/>
-      <point x="963" y="1434" type="line"/>
-      <point x="1085" y="1434" type="line"/>
+      <point x="441" y="535" type="line"/>
+      <point x="520" y="524"/>
+      <point x="584" y="460"/>
+      <point x="595" y="381" type="curve"/>
+      <point x="646" y="381" type="line"/>
+      <point x="646" y="331" type="line"/>
+      <point x="595" y="331" type="line"/>
+      <point x="584" y="253"/>
+      <point x="520" y="189"/>
+      <point x="441" y="178" type="curve"/>
+      <point x="441" y="125" type="line"/>
+      <point x="392" y="125" type="line"/>
+      <point x="392" y="178" type="line"/>
+      <point x="313" y="189"/>
+      <point x="249" y="253"/>
+      <point x="238" y="331" type="curve"/>
+      <point x="188" y="331" type="line"/>
+      <point x="188" y="381" type="line"/>
+      <point x="238" y="381" type="line"/>
+      <point x="249" y="460"/>
+      <point x="313" y="524"/>
+      <point x="392" y="535" type="curve"/>
+      <point x="392" y="583" type="line"/>
+      <point x="441" y="583" type="line"/>
     </contour>
     <contour>
-      <point x="1024" y="556" type="curve" smooth="yes"/>
-      <point x="1200" y="556"/>
-      <point x="1343" y="700"/>
-      <point x="1343" y="876" type="curve" smooth="yes"/>
-      <point x="1343" y="1052"/>
-      <point x="1200" y="1195"/>
-      <point x="1024" y="1195" type="curve" smooth="yes"/>
-      <point x="848" y="1195"/>
-      <point x="705" y="1052"/>
-      <point x="705" y="876" type="curve" smooth="yes"/>
-      <point x="705" y="700"/>
-      <point x="848" y="556"/>
+      <point x="417" y="226" type="curve" smooth="yes"/>
+      <point x="489" y="226"/>
+      <point x="546" y="284"/>
+      <point x="546" y="356" type="curve" smooth="yes"/>
+      <point x="546" y="428"/>
+      <point x="489" y="486"/>
+      <point x="417" y="486" type="curve" smooth="yes"/>
+      <point x="345" y="486"/>
+      <point x="287" y="428"/>
+      <point x="287" y="356" type="curve" smooth="yes"/>
+      <point x="287" y="284"/>
+      <point x="345" y="226"/>
     </contour>
     <contour>
-      <point x="1025" y="875" type="move" name="_Anchor"/>
+      <point x="417" y="356" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -55,66 +55,60 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>307</integer>
+            <integer>125</integer>
             <key>width</key>
-            <integer>249</integer>
+            <integer>101</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>438</integer>
+            <integer>178</integer>
             <key>width</key>
-            <integer>118</integer>
+            <integer>48</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>814</integer>
+            <integer>331</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1195</integer>
+            <integer>486</integer>
             <key>width</key>
-            <integer>239</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1195</integer>
-            <key>width</key>
-            <integer>119</integer>
+            <integer>97</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>461</integer>
+            <integer>188</integer>
             <key>width</key>
-            <integer>244</integer>
+            <integer>99</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>586</integer>
+            <integer>238</integer>
             <key>width</key>
-            <integer>119</integer>
+            <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>963</integer>
+            <integer>392</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1343</integer>
+            <integer>546</integer>
             <key>width</key>
-            <integer>244</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1343</integer>
+            <integer>546</integer>
             <key>width</key>
-            <integer>119</integer>
+            <integer>49</integer>
           </dict>
         </array>
       </dict>

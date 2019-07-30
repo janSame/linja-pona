@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="anu.mark" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F108"/>
   <outline>
     <contour>
-      <point x="1454" y="1267" type="line"/>
-      <point x="1550" y="1191" type="line"/>
-      <point x="1085" y="602" type="line"/>
-      <point x="1085" y="154" type="line"/>
-      <point x="963" y="154" type="line"/>
-      <point x="963" y="602" type="line"/>
-      <point x="498" y="1191" type="line"/>
-      <point x="594" y="1267" type="line"/>
-      <point x="1024" y="722" type="line"/>
+      <point x="592" y="515" type="line"/>
+      <point x="631" y="485" type="line"/>
+      <point x="441" y="245" type="line"/>
+      <point x="441" y="63" type="line"/>
+      <point x="392" y="63" type="line"/>
+      <point x="392" y="245" type="line"/>
+      <point x="203" y="485" type="line"/>
+      <point x="242" y="515" type="line"/>
+      <point x="417" y="294" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="800" type="move" name="_Anchor"/>
+      <point x="417" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -26,9 +26,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>963</integer>
+            <integer>392</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
         </array>
       </dict>

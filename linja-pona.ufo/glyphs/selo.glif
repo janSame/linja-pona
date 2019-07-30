@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="selo" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E658"/>
   <outline>
     <contour>
-      <point x="1403" y="1382" type="line"/>
-      <point x="1417" y="102" type="line"/>
-      <point x="1288" y="102" type="line"/>
-      <point x="1280" y="1382" type="line"/>
-      <point x="768" y="1382" type="line"/>
-      <point x="760" y="102" type="line"/>
-      <point x="631" y="102" type="line"/>
-      <point x="645" y="1382" type="line"/>
-      <point x="375" y="1382" type="line"/>
-      <point x="375" y="51" type="line"/>
-      <point x="246" y="51" type="line"/>
-      <point x="272" y="1505" type="line"/>
-      <point x="1769" y="1505" type="line"/>
-      <point x="1802" y="51" type="line"/>
-      <point x="1673" y="51" type="line"/>
-      <point x="1667" y="1382" type="line"/>
+      <point x="571" y="562" type="line"/>
+      <point x="576" y="41" type="line"/>
+      <point x="524" y="41" type="line"/>
+      <point x="521" y="562" type="line"/>
+      <point x="312" y="562" type="line"/>
+      <point x="309" y="41" type="line"/>
+      <point x="257" y="41" type="line"/>
+      <point x="262" y="562" type="line"/>
+      <point x="153" y="562" type="line"/>
+      <point x="153" y="21" type="line"/>
+      <point x="100" y="21" type="line"/>
+      <point x="111" y="612" type="line"/>
+      <point x="720" y="612" type="line"/>
+      <point x="733" y="21" type="line"/>
+      <point x="681" y="21" type="line"/>
+      <point x="678" y="562" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,48 +30,48 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1382</integer>
+            <integer>562</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>246</integer>
+            <integer>100</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>53</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>272</integer>
+            <integer>111</integer>
             <key>width</key>
-            <integer>103</integer>
+            <integer>42</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>631</integer>
+            <integer>257</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>52</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1288</integer>
+            <integer>524</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>52</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1667</integer>
+            <integer>678</integer>
             <key>width</key>
-            <integer>102</integer>
+            <integer>42</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1673</integer>
+            <integer>681</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>52</integer>
           </dict>
         </array>
       </dict>

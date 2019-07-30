@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="utala.mark.small" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E930"/>
   <outline>
     <contour>
-      <point x="1276" y="362" type="line"/>
-      <point x="1383" y="587" type="line"/>
-      <point x="1484" y="539" type="line"/>
-      <point x="1300" y="150" type="line"/>
-      <point x="1024" y="497" type="line"/>
-      <point x="748" y="150" type="line"/>
-      <point x="563" y="539" type="line"/>
-      <point x="665" y="587" type="line"/>
-      <point x="772" y="362" type="line"/>
-      <point x="952" y="587" type="line"/>
-      <point x="673" y="938" type="line"/>
-      <point x="761" y="1008" type="line"/>
-      <point x="1024" y="678" type="line"/>
-      <point x="1287" y="1008" type="line"/>
-      <point x="1375" y="938" type="line"/>
-      <point x="1096" y="587" type="line"/>
+      <point x="519" y="147" type="line"/>
+      <point x="563" y="239" type="line"/>
+      <point x="604" y="219" type="line"/>
+      <point x="529" y="61" type="line"/>
+      <point x="417" y="202" type="line"/>
+      <point x="304" y="61" type="line"/>
+      <point x="229" y="219" type="line"/>
+      <point x="271" y="239" type="line"/>
+      <point x="314" y="147" type="line"/>
+      <point x="387" y="239" type="line"/>
+      <point x="274" y="382" type="line"/>
+      <point x="310" y="410" type="line"/>
+      <point x="417" y="276" type="line"/>
+      <point x="524" y="410" type="line"/>
+      <point x="559" y="382" type="line"/>
+      <point x="446" y="239" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="590" type="move" name="_Anchor"/>
+      <point x="417" y="240" type="move" name="_Anchor"/>
     </contour>
   </outline>
 </glyph>

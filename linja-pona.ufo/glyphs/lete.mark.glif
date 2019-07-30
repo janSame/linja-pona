@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lete.mark" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F139"/>
   <outline>
     <contour>
-      <point x="1440" y="1255" type="line"/>
-      <point x="1137" y="850" type="line"/>
-      <point x="1550" y="850" type="line"/>
-      <point x="1550" y="737" type="line"/>
-      <point x="1137" y="737" type="line"/>
-      <point x="1440" y="332" type="line"/>
-      <point x="1350" y="264" type="line"/>
-      <point x="1024" y="700" type="line"/>
-      <point x="698" y="264" type="line"/>
-      <point x="608" y="332" type="line"/>
-      <point x="911" y="737" type="line"/>
-      <point x="498" y="737" type="line"/>
-      <point x="498" y="850" type="line"/>
-      <point x="911" y="850" type="line"/>
-      <point x="608" y="1255" type="line"/>
-      <point x="698" y="1323" type="line"/>
-      <point x="1024" y="888" type="line"/>
-      <point x="1350" y="1323" type="line"/>
+      <point x="586" y="511" type="line"/>
+      <point x="463" y="346" type="line"/>
+      <point x="631" y="346" type="line"/>
+      <point x="631" y="300" type="line"/>
+      <point x="463" y="300" type="line"/>
+      <point x="586" y="135" type="line"/>
+      <point x="549" y="107" type="line"/>
+      <point x="417" y="285" type="line"/>
+      <point x="284" y="107" type="line"/>
+      <point x="247" y="135" type="line"/>
+      <point x="371" y="300" type="line"/>
+      <point x="203" y="300" type="line"/>
+      <point x="203" y="346" type="line"/>
+      <point x="371" y="346" type="line"/>
+      <point x="247" y="511" type="line"/>
+      <point x="284" y="538" type="line"/>
+      <point x="417" y="361" type="line"/>
+      <point x="549" y="538" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="800" type="move" name="_Anchor"/>
+      <point x="417" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -35,9 +35,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>737</integer>
+            <integer>300</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>46</integer>
           </dict>
         </array>
       </dict>

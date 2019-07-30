@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="leko.mark" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F223"/>
   <outline>
     <contour>
-      <point x="1434" y="384" type="line"/>
-      <point x="614" y="384" type="line"/>
-      <point x="614" y="1203" type="line"/>
-      <point x="1434" y="1203" type="line"/>
+      <point x="583" y="156" type="line"/>
+      <point x="250" y="156" type="line"/>
+      <point x="250" y="489" type="line"/>
+      <point x="583" y="489" type="line"/>
     </contour>
     <contour>
-      <point x="717" y="486" type="line"/>
-      <point x="1331" y="486" type="line"/>
-      <point x="1331" y="1101" type="line"/>
-      <point x="717" y="1101" type="line"/>
+      <point x="292" y="198" type="line"/>
+      <point x="541" y="198" type="line"/>
+      <point x="541" y="448" type="line"/>
+      <point x="292" y="448" type="line"/>
     </contour>
     <contour>
-      <point x="1224" y="594" type="line"/>
-      <point x="824" y="594" type="line"/>
-      <point x="824" y="993" type="line"/>
-      <point x="1224" y="993" type="line"/>
+      <point x="498" y="242" type="line"/>
+      <point x="335" y="242" type="line"/>
+      <point x="335" y="404" type="line"/>
+      <point x="498" y="404" type="line"/>
     </contour>
     <contour>
-      <point x="916" y="686" type="line"/>
-      <point x="1132" y="686" type="line"/>
-      <point x="1132" y="901" type="line"/>
-      <point x="916" y="901" type="line"/>
+      <point x="373" y="279" type="line"/>
+      <point x="461" y="279" type="line"/>
+      <point x="461" y="367" type="line"/>
+      <point x="373" y="367" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="800" type="move" name="_Anchor"/>
+      <point x="417" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -39,54 +39,54 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>384</integer>
+            <integer>156</integer>
             <key>width</key>
-            <integer>102</integer>
+            <integer>42</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>594</integer>
+            <integer>242</integer>
             <key>width</key>
-            <integer>92</integer>
+            <integer>37</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>901</integer>
+            <integer>367</integer>
             <key>width</key>
-            <integer>92</integer>
+            <integer>37</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1101</integer>
+            <integer>448</integer>
             <key>width</key>
-            <integer>102</integer>
+            <integer>41</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>614</integer>
+            <integer>250</integer>
             <key>width</key>
-            <integer>103</integer>
+            <integer>42</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>824</integer>
+            <integer>335</integer>
             <key>width</key>
-            <integer>92</integer>
+            <integer>38</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1132</integer>
+            <integer>461</integer>
             <key>width</key>
-            <integer>92</integer>
+            <integer>37</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1331</integer>
+            <integer>541</integer>
             <key>width</key>
-            <integer>103</integer>
+            <integer>42</integer>
           </dict>
         </array>
       </dict>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="1074"/>
+  <advance width="436"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="428" y="0" type="curve"/>
-      <point x="206" y="0" type="line"/>
-      <point x="310" y="333"/>
-      <point x="617" y="984"/>
-      <point x="775" y="1281" type="curve"/>
-      <point x="84" y="1281" type="line"/>
-      <point x="84" y="1471" type="line"/>
-      <point x="1034" y="1471" type="line"/>
-      <point x="1034" y="1393" type="line"/>
-      <point x="905" y="1139" type="line" smooth="yes"/>
-      <point x="755" y="843"/>
-      <point x="525" y="326"/>
+      <point x="174" y="0" type="curve"/>
+      <point x="84" y="0" type="line"/>
+      <point x="126" y="135"/>
+      <point x="251" y="400"/>
+      <point x="315" y="521" type="curve"/>
+      <point x="34" y="521" type="line"/>
+      <point x="34" y="598" type="line"/>
+      <point x="421" y="598" type="line"/>
+      <point x="421" y="567" type="line"/>
+      <point x="368" y="463" type="line" smooth="yes"/>
+      <point x="307" y="343"/>
+      <point x="213" y="133"/>
     </contour>
   </outline>
   <lib>
@@ -26,18 +26,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1281</integer>
+            <integer>521</integer>
             <key>width</key>
-            <integer>190</integer>
+            <integer>77</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>206</integer>
+            <integer>84</integer>
             <key>width</key>
-            <integer>222</integer>
+            <integer>90</integer>
           </dict>
         </array>
       </dict>

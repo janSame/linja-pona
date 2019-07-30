@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="len.sup" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E943"/>
   <outline>
     <contour>
-      <point x="648" y="1109" type="line"/>
-      <point x="648" y="901" type="line"/>
-      <point x="542" y="901" type="line"/>
-      <point x="542" y="1676" type="line"/>
-      <point x="1506" y="1676" type="line"/>
-      <point x="1506" y="901" type="line"/>
-      <point x="1400" y="901" type="line"/>
-      <point x="1400" y="1109" type="line"/>
-      <point x="1077" y="1109" type="line"/>
-      <point x="1077" y="907" type="line"/>
-      <point x="971" y="907" type="line"/>
-      <point x="971" y="1109" type="line"/>
+      <point x="264" y="451" type="line"/>
+      <point x="264" y="367" type="line"/>
+      <point x="221" y="367" type="line"/>
+      <point x="221" y="682" type="line"/>
+      <point x="613" y="682" type="line"/>
+      <point x="613" y="367" type="line"/>
+      <point x="570" y="367" type="line"/>
+      <point x="570" y="451" type="line"/>
+      <point x="438" y="451" type="line"/>
+      <point x="438" y="369" type="line"/>
+      <point x="395" y="369" type="line"/>
+      <point x="395" y="451" type="line"/>
     </contour>
     <contour>
-      <point x="648" y="1570" type="line"/>
-      <point x="648" y="1452"/>
-      <point x="648" y="1333"/>
-      <point x="648" y="1215" type="curve"/>
-      <point x="1400" y="1215" type="line"/>
-      <point x="1400" y="1333"/>
-      <point x="1400" y="1452"/>
-      <point x="1400" y="1570" type="curve"/>
+      <point x="264" y="639" type="line"/>
+      <point x="264" y="591"/>
+      <point x="264" y="542"/>
+      <point x="264" y="494" type="curve"/>
+      <point x="570" y="494" type="line"/>
+      <point x="570" y="542"/>
+      <point x="570" y="591"/>
+      <point x="570" y="639" type="curve"/>
     </contour>
     <contour>
-      <point x="1025" y="1300" type="move" name="_Anchor"/>
+      <point x="417" y="529" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -39,36 +39,36 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1109</integer>
+            <integer>451</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>43</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1570</integer>
+            <integer>639</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>43</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>542</integer>
+            <integer>221</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>43</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>971</integer>
+            <integer>395</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>43</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1400</integer>
+            <integer>570</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>43</integer>
           </dict>
         </array>
       </dict>

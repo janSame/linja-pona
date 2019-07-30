@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="luka.sup" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E851"/>
   <outline>
     <contour>
-      <point x="1111" y="1698" type="curve" smooth="yes"/>
-      <point x="1534" y="1698"/>
-      <point x="1792" y="1454"/>
-      <point x="1792" y="1022" type="curve" smooth="yes"/>
-      <point x="1792" y="817" type="line"/>
-      <point x="1741" y="817" type="line"/>
-      <point x="1741" y="819" type="line"/>
-      <point x="1669" y="819" type="line"/>
-      <point x="1669" y="1022" type="line" smooth="yes"/>
-      <point x="1669" y="1229"/>
-      <point x="1597" y="1575"/>
-      <point x="1111" y="1575" type="curve" smooth="yes"/>
-      <point x="626" y="1575"/>
-      <point x="553" y="1229"/>
-      <point x="553" y="1022" type="curve" smooth="yes"/>
-      <point x="553" y="819" type="line"/>
-      <point x="504" y="819" type="line"/>
-      <point x="150" y="1184" type="line"/>
-      <point x="239" y="1270" type="line"/>
-      <point x="432" y="1070" type="line"/>
-      <point x="449" y="1469"/>
-      <point x="703" y="1698"/>
+      <point x="452" y="691" type="curve" smooth="yes"/>
+      <point x="624" y="691"/>
+      <point x="729" y="592"/>
+      <point x="729" y="416" type="curve" smooth="yes"/>
+      <point x="729" y="332" type="line"/>
+      <point x="708" y="332" type="line"/>
+      <point x="708" y="333" type="line"/>
+      <point x="679" y="333" type="line"/>
+      <point x="679" y="416" type="line" smooth="yes"/>
+      <point x="679" y="500"/>
+      <point x="650" y="641"/>
+      <point x="452" y="641" type="curve" smooth="yes"/>
+      <point x="255" y="641"/>
+      <point x="225" y="500"/>
+      <point x="225" y="416" type="curve" smooth="yes"/>
+      <point x="225" y="333" type="line"/>
+      <point x="205" y="333" type="line"/>
+      <point x="61" y="482" type="line"/>
+      <point x="97" y="517" type="line"/>
+      <point x="176" y="435" type="line"/>
+      <point x="183" y="597"/>
+      <point x="286" y="691"/>
     </contour>
     <contour>
-      <point x="1025" y="1350" type="move" name="_Anchor"/>
+      <point x="417" y="549" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -39,24 +39,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1575</integer>
+            <integer>641</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>432</integer>
+            <integer>176</integer>
             <key>width</key>
-            <integer>121</integer>
+            <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1669</integer>
+            <integer>679</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

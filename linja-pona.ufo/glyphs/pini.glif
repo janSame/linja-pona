@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pini" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E650"/>
   <outline>
     <contour>
-      <point x="1638" y="56" type="line"/>
-      <point x="1638" y="-56" type="line"/>
-      <point x="410" y="-56" type="line"/>
-      <point x="410" y="56" type="line"/>
-      <point x="968" y="56" type="line"/>
-      <point x="968" y="1428" type="line"/>
-      <point x="410" y="1428" type="line"/>
-      <point x="410" y="1541" type="line"/>
-      <point x="1638" y="1541" type="line"/>
-      <point x="1638" y="1428" type="line"/>
-      <point x="1080" y="1428" type="line"/>
-      <point x="1080" y="56" type="line"/>
+      <point x="666" y="23" type="line"/>
+      <point x="666" y="-23" type="line"/>
+      <point x="167" y="-23" type="line"/>
+      <point x="167" y="23" type="line"/>
+      <point x="394" y="23" type="line"/>
+      <point x="394" y="581" type="line"/>
+      <point x="167" y="581" type="line"/>
+      <point x="167" y="627" type="line"/>
+      <point x="666" y="627" type="line"/>
+      <point x="666" y="581" type="line"/>
+      <point x="439" y="581" type="line"/>
+      <point x="439" y="23" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,24 +26,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-56</integer>
+            <integer>-23</integer>
             <key>width</key>
-            <integer>112</integer>
+            <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1428</integer>
+            <integer>581</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>46</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>968</integer>
+            <integer>394</integer>
             <key>width</key>
-            <integer>112</integer>
+            <integer>45</integer>
           </dict>
         </array>
       </dict>

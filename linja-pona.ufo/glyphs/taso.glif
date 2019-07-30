@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="taso" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E668"/>
   <outline>
     <contour>
-      <point x="1485" y="1690" type="line"/>
-      <point x="1485" y="-51" type="line"/>
-      <point x="1362" y="-51" type="line"/>
-      <point x="1362" y="759" type="line"/>
-      <point x="389" y="759" type="line"/>
-      <point x="389" y="882" type="line"/>
-      <point x="1362" y="882" type="line"/>
-      <point x="1362" y="1690" type="line"/>
+      <point x="604" y="688" type="line"/>
+      <point x="604" y="-21" type="line"/>
+      <point x="554" y="-21" type="line"/>
+      <point x="554" y="309" type="line"/>
+      <point x="158" y="309" type="line"/>
+      <point x="158" y="359" type="line"/>
+      <point x="554" y="359" type="line"/>
+      <point x="554" y="688" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,18 +22,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>759</integer>
+            <integer>309</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>1362</integer>
+            <integer>554</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

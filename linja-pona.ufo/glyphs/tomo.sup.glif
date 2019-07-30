@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tomo.sup" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F022"/>
   <outline>
     <contour>
-      <point x="1511" y="1318" type="line"/>
-      <point x="1511" y="948" type="line"/>
-      <point x="540" y="948" type="line"/>
-      <point x="540" y="1318" type="line"/>
-      <point x="1026" y="1754" type="line"/>
+      <point x="615" y="536" type="line"/>
+      <point x="615" y="386" type="line"/>
+      <point x="220" y="386" type="line"/>
+      <point x="220" y="536" type="line"/>
+      <point x="417" y="714" type="line"/>
     </contour>
     <contour>
-      <point x="651" y="1053" type="line"/>
-      <point x="1400" y="1053" type="line"/>
-      <point x="1400" y="1269" type="line"/>
-      <point x="1026" y="1613" type="line"/>
-      <point x="651" y="1269" type="line"/>
+      <point x="265" y="428" type="line"/>
+      <point x="570" y="428" type="line"/>
+      <point x="570" y="516" type="line"/>
+      <point x="417" y="656" type="line"/>
+      <point x="265" y="516" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="1370" type="move" name="_Anchor"/>
+      <point x="417" y="557" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -29,24 +29,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>948</integer>
+            <integer>386</integer>
             <key>width</key>
-            <integer>105</integer>
+            <integer>42</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>540</integer>
+            <integer>220</integer>
             <key>width</key>
-            <integer>111</integer>
+            <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1400</integer>
+            <integer>570</integer>
             <key>width</key>
-            <integer>111</integer>
+            <integer>45</integer>
           </dict>
         </array>
       </dict>

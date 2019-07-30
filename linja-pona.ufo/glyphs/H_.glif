@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1340"/>
+  <advance width="545"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="1190" y="0" type="line"/>
-      <point x="990" y="0" type="line"/>
-      <point x="990" y="708" type="line"/>
-      <point x="350" y="708" type="line"/>
-      <point x="350" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="150" y="1465" type="line"/>
-      <point x="350" y="1465" type="line"/>
-      <point x="350" y="878" type="line"/>
-      <point x="990" y="878" type="line"/>
-      <point x="990" y="1465" type="line"/>
-      <point x="1190" y="1465" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="403" y="288" type="line"/>
+      <point x="142" y="288" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="61" y="596" type="line"/>
+      <point x="142" y="596" type="line"/>
+      <point x="142" y="357" type="line"/>
+      <point x="403" y="357" type="line"/>
+      <point x="403" y="596" type="line"/>
+      <point x="484" y="596" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,24 +26,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>708</integer>
+            <integer>288</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>69</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>150</integer>
+            <integer>61</integer>
             <key>width</key>
-            <integer>200</integer>
+            <integer>81</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>990</integer>
+            <integer>403</integer>
             <key>width</key>
-            <integer>200</integer>
+            <integer>81</integer>
           </dict>
         </array>
       </dict>

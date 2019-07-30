@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="luka.base" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E850"/>
   <outline>
     <contour>
-      <point x="1111" y="829" type="curve" smooth="yes"/>
-      <point x="1534" y="829"/>
-      <point x="1792" y="585"/>
-      <point x="1792" y="154" type="curve" smooth="yes"/>
-      <point x="1792" y="-51" type="line"/>
-      <point x="1669" y="-51" type="line"/>
-      <point x="1669" y="154" type="line" smooth="yes"/>
-      <point x="1669" y="360"/>
-      <point x="1597" y="707"/>
-      <point x="1111" y="707" type="curve" smooth="yes"/>
-      <point x="626" y="707"/>
-      <point x="553" y="360"/>
-      <point x="553" y="154" type="curve" smooth="yes"/>
-      <point x="553" y="-51" type="line"/>
-      <point x="505" y="-51" type="line"/>
-      <point x="150" y="316" type="line"/>
-      <point x="239" y="401" type="line"/>
-      <point x="432" y="202" type="line"/>
-      <point x="449" y="601"/>
-      <point x="704" y="829"/>
+      <point x="452" y="337" type="curve" smooth="yes"/>
+      <point x="624" y="337"/>
+      <point x="729" y="238"/>
+      <point x="729" y="63" type="curve" smooth="yes"/>
+      <point x="729" y="-21" type="line"/>
+      <point x="679" y="-21" type="line"/>
+      <point x="679" y="63" type="line" smooth="yes"/>
+      <point x="679" y="147"/>
+      <point x="650" y="288"/>
+      <point x="452" y="288" type="curve" smooth="yes"/>
+      <point x="255" y="288"/>
+      <point x="225" y="147"/>
+      <point x="225" y="63" type="curve" smooth="yes"/>
+      <point x="225" y="-21" type="line"/>
+      <point x="205" y="-21" type="line"/>
+      <point x="61" y="129" type="line"/>
+      <point x="97" y="163" type="line"/>
+      <point x="176" y="82" type="line"/>
+      <point x="183" y="244"/>
+      <point x="286" y="337"/>
     </contour>
     <contour>
-      <point x="1025" y="1350" type="move" name="Anchor"/>
+      <point x="417" y="549" type="move" name="Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -37,24 +37,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>707</integer>
+            <integer>288</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>432</integer>
+            <integer>176</integer>
             <key>width</key>
-            <integer>121</integer>
+            <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1669</integer>
+            <integer>679</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

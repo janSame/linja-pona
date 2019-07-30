@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="1">
-  <advance width="940"/>
+  <advance width="382"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="545" y="381" type="line"/>
-      <point x="915" y="381" type="line"/>
-      <point x="915" y="241" type="line"/>
-      <point x="545" y="241" type="line"/>
-      <point x="545" y="-250" type="line"/>
-      <point x="469" y="-344" type="line"/>
-      <point x="395" y="-250" type="line"/>
-      <point x="395" y="241" type="line"/>
-      <point x="25" y="241" type="line"/>
-      <point x="25" y="381" type="line"/>
-      <point x="395" y="381" type="line"/>
-      <point x="395" y="931" type="line"/>
-      <point x="25" y="931" type="line"/>
-      <point x="25" y="1071" type="line"/>
-      <point x="395" y="1071" type="line"/>
-      <point x="395" y="1385" type="line"/>
-      <point x="545" y="1385" type="line"/>
-      <point x="545" y="1071" type="line"/>
-      <point x="915" y="1071" type="line"/>
-      <point x="915" y="931" type="line"/>
-      <point x="545" y="931" type="line"/>
+      <point x="222" y="155" type="line"/>
+      <point x="372" y="155" type="line"/>
+      <point x="372" y="98" type="line"/>
+      <point x="222" y="98" type="line"/>
+      <point x="222" y="-102" type="line"/>
+      <point x="191" y="-140" type="line"/>
+      <point x="161" y="-102" type="line"/>
+      <point x="161" y="98" type="line"/>
+      <point x="10" y="98" type="line"/>
+      <point x="10" y="155" type="line"/>
+      <point x="161" y="155" type="line"/>
+      <point x="161" y="379" type="line"/>
+      <point x="10" y="379" type="line"/>
+      <point x="10" y="436" type="line"/>
+      <point x="161" y="436" type="line"/>
+      <point x="161" y="563" type="line"/>
+      <point x="222" y="563" type="line"/>
+      <point x="222" y="436" type="line"/>
+      <point x="372" y="436" type="line"/>
+      <point x="372" y="379" type="line"/>
+      <point x="222" y="379" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,24 +35,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>241</integer>
+            <integer>98</integer>
             <key>width</key>
-            <integer>140</integer>
+            <integer>57</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>931</integer>
+            <integer>379</integer>
             <key>width</key>
-            <integer>140</integer>
+            <integer>57</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>395</integer>
+            <integer>161</integer>
             <key>width</key>
-            <integer>150</integer>
+            <integer>61</integer>
           </dict>
         </array>
       </dict>

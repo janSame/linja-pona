@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="1074"/>
+  <advance width="436"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="1030" y="399" type="line"/>
-      <point x="882" y="399" type="line"/>
-      <point x="882" y="0" type="line"/>
-      <point x="692" y="0" type="line"/>
-      <point x="692" y="399" type="line"/>
-      <point x="25" y="399" type="line"/>
-      <point x="25" y="513" type="line"/>
-      <point x="812" y="1471" type="line"/>
-      <point x="882" y="1471" type="line"/>
-      <point x="882" y="553" type="line"/>
-      <point x="1030" y="553" type="line"/>
+      <point x="419" y="162" type="line"/>
+      <point x="359" y="162" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="282" y="162" type="line"/>
+      <point x="10" y="162" type="line"/>
+      <point x="10" y="209" type="line"/>
+      <point x="330" y="598" type="line"/>
+      <point x="359" y="598" type="line"/>
+      <point x="359" y="225" type="line"/>
+      <point x="419" y="225" type="line"/>
     </contour>
     <contour>
-      <point x="692" y="553" type="line"/>
-      <point x="692" y="1072" type="line"/>
-      <point x="262" y="553" type="line"/>
+      <point x="282" y="225" type="line"/>
+      <point x="282" y="436" type="line"/>
+      <point x="107" y="225" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,18 +30,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>399</integer>
+            <integer>162</integer>
             <key>width</key>
-            <integer>154</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>692</integer>
+            <integer>282</integer>
             <key>width</key>
-            <integer>190</integer>
+            <integer>77</integer>
           </dict>
         </array>
       </dict>

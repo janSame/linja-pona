@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
-  <advance width="1074"/>
+  <advance width="436"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="524" y="599" type="line"/>
-      <point x="524" y="535" type="line"/>
-      <point x="169" y="298" type="line"/>
-      <point x="169" y="423" type="line"/>
-      <point x="381" y="561" type="line"/>
-      <point x="169" y="718" type="line"/>
-      <point x="169" y="843" type="line"/>
+      <point x="213" y="244" type="line"/>
+      <point x="213" y="218" type="line"/>
+      <point x="69" y="121" type="line"/>
+      <point x="69" y="172" type="line"/>
+      <point x="155" y="228" type="line"/>
+      <point x="69" y="292" type="line"/>
+      <point x="69" y="343" type="line"/>
     </contour>
     <contour>
-      <point x="923" y="599" type="line"/>
-      <point x="923" y="535" type="line"/>
-      <point x="568" y="298" type="line"/>
-      <point x="568" y="423" type="line"/>
-      <point x="780" y="561" type="line"/>
-      <point x="568" y="718" type="line"/>
-      <point x="568" y="843" type="line"/>
+      <point x="376" y="244" type="line"/>
+      <point x="376" y="218" type="line"/>
+      <point x="231" y="121" type="line"/>
+      <point x="231" y="172" type="line"/>
+      <point x="317" y="228" type="line"/>
+      <point x="231" y="292" type="line"/>
+      <point x="231" y="343" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,9 +30,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>298</integer>
+            <integer>121</integer>
             <key>width</key>
-            <integer>545</integer>
+            <integer>222</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>69</integer>
+            <key>width</key>
+            <integer>307</integer>
           </dict>
         </array>
       </dict>

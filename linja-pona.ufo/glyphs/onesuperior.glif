@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="924"/>
+  <advance width="375"/>
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="569" y="595" type="line"/>
-      <point x="439" y="595" type="line"/>
-      <point x="439" y="1269" type="line"/>
-      <point x="251" y="1157" type="line"/>
-      <point x="251" y="1270" type="line"/>
-      <point x="382" y="1336"/>
-      <point x="476" y="1405"/>
-      <point x="533" y="1478" type="curve"/>
-      <point x="569" y="1478" type="line"/>
+      <point x="231" y="242" type="line"/>
+      <point x="179" y="242" type="line"/>
+      <point x="179" y="516" type="line"/>
+      <point x="102" y="471" type="line"/>
+      <point x="102" y="517" type="line"/>
+      <point x="155" y="544"/>
+      <point x="194" y="571"/>
+      <point x="217" y="601" type="curve"/>
+      <point x="231" y="601" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,9 +23,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>439</integer>
+            <integer>179</integer>
             <key>width</key>
-            <integer>130</integer>
+            <integer>52</integer>
           </dict>
         </array>
       </dict>

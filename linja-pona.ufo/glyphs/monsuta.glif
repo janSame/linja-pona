@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="monsuta" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E693"/>
   <outline>
     <contour>
-      <point x="1024" y="227" type="line"/>
-      <point x="767" y="945" type="line"/>
-      <point x="569" y="399" type="line"/>
-      <point x="355" y="880" type="line"/>
-      <point x="208" y="587" type="line"/>
-      <point x="99" y="642" type="line"/>
-      <point x="362" y="1168" type="line"/>
-      <point x="557" y="727" type="line"/>
-      <point x="769" y="1308" type="line"/>
-      <point x="1024" y="592" type="line"/>
-      <point x="1279" y="1308" type="line"/>
-      <point x="1491" y="727" type="line"/>
-      <point x="1686" y="1168" type="line"/>
-      <point x="1949" y="642" type="line"/>
-      <point x="1840" y="587" type="line"/>
-      <point x="1693" y="880" type="line"/>
-      <point x="1479" y="399" type="line"/>
-      <point x="1281" y="945" type="line"/>
+      <point x="417" y="92" type="line"/>
+      <point x="312" y="384" type="line"/>
+      <point x="231" y="162" type="line"/>
+      <point x="144" y="358" type="line"/>
+      <point x="85" y="239" type="line"/>
+      <point x="40" y="261" type="line"/>
+      <point x="147" y="475" type="line"/>
+      <point x="227" y="296" type="line"/>
+      <point x="313" y="532" type="line"/>
+      <point x="417" y="241" type="line"/>
+      <point x="520" y="532" type="line"/>
+      <point x="607" y="296" type="line"/>
+      <point x="686" y="475" type="line"/>
+      <point x="793" y="261" type="line"/>
+      <point x="749" y="239" type="line"/>
+      <point x="689" y="358" type="line"/>
+      <point x="602" y="162" type="line"/>
+      <point x="521" y="384" type="line"/>
     </contour>
   </outline>
 </glyph>

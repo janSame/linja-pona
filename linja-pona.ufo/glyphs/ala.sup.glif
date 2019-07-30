@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ala.sup" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F064"/>
   <outline>
     <contour>
-      <point x="714" y="1176" type="line"/>
-      <point x="650" y="1281" type="line"/>
-      <point x="905" y="1436" type="line"/>
-      <point x="650" y="1592" type="line"/>
-      <point x="714" y="1697" type="line"/>
-      <point x="1024" y="1508" type="line"/>
-      <point x="1333" y="1697" type="line"/>
-      <point x="1397" y="1592" type="line"/>
-      <point x="1142" y="1436" type="line"/>
-      <point x="1397" y="1281" type="line"/>
-      <point x="1333" y="1176" type="line"/>
-      <point x="1024" y="1365" type="line"/>
+      <point x="290" y="478" type="line"/>
+      <point x="264" y="521" type="line"/>
+      <point x="368" y="584" type="line"/>
+      <point x="264" y="648" type="line"/>
+      <point x="290" y="690" type="line"/>
+      <point x="417" y="614" type="line"/>
+      <point x="542" y="690" type="line"/>
+      <point x="568" y="648" type="line"/>
+      <point x="465" y="584" type="line"/>
+      <point x="568" y="521" type="line"/>
+      <point x="542" y="478" type="line"/>
+      <point x="417" y="555" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="1430" type="move" name="_Anchor"/>
+      <point x="417" y="582" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -29,9 +29,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1176</integer>
+            <integer>478</integer>
             <key>width</key>
-            <integer>521</integer>
+            <integer>212</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>264</integer>
+            <key>width</key>
+            <integer>304</integer>
           </dict>
         </array>
       </dict>

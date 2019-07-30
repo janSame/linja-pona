@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nasin" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E63F"/>
   <outline>
     <contour>
-      <point x="1731" y="610" type="line"/>
-      <point x="1648" y="520" type="line"/>
-      <point x="1085" y="1039" type="line"/>
-      <point x="1085" y="0" type="line"/>
-      <point x="963" y="0" type="line"/>
-      <point x="963" y="1039" type="line"/>
-      <point x="400" y="520" type="line"/>
-      <point x="317" y="610" type="line"/>
-      <point x="963" y="1206" type="line"/>
-      <point x="963" y="1634" type="line"/>
-      <point x="1085" y="1634" type="line"/>
-      <point x="1085" y="1206" type="line"/>
+      <point x="704" y="248" type="line"/>
+      <point x="670" y="212" type="line"/>
+      <point x="441" y="423" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="423" type="line"/>
+      <point x="163" y="212" type="line"/>
+      <point x="129" y="248" type="line"/>
+      <point x="392" y="491" type="line"/>
+      <point x="392" y="665" type="line"/>
+      <point x="441" y="665" type="line"/>
+      <point x="441" y="491" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,9 +26,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>963</integer>
+            <integer>392</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
         </array>
       </dict>

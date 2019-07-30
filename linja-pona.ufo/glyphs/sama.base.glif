@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sama.base" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F029"/>
   <outline>
     <contour>
-      <point x="1741" y="133" type="line"/>
-      <point x="307" y="133" type="line"/>
-      <point x="307" y="256" type="line"/>
-      <point x="1741" y="256" type="line"/>
+      <point x="708" y="54" type="line"/>
+      <point x="125" y="54" type="line"/>
+      <point x="125" y="104" type="line"/>
+      <point x="708" y="104" type="line"/>
     </contour>
     <contour>
-      <point x="1741" y="-113" type="line"/>
-      <point x="307" y="-113" type="line"/>
-      <point x="307" y="10" type="line"/>
-      <point x="1741" y="10" type="line"/>
+      <point x="708" y="-46" type="line"/>
+      <point x="125" y="-46" type="line"/>
+      <point x="125" y="4" type="line"/>
+      <point x="708" y="4" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="950" type="move" name="Anchor"/>
+      <point x="417" y="386" type="move" name="Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -27,15 +27,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-113</integer>
+            <integer>-46</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>133</integer>
+            <integer>54</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

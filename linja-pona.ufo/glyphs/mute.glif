@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mute" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E63C"/>
   <outline>
     <contour>
-      <point x="1085" y="-51" type="line"/>
-      <point x="963" y="-51" type="line"/>
-      <point x="963" y="1587" type="line"/>
-      <point x="1085" y="1587" type="line"/>
+      <point x="441" y="-21" type="line"/>
+      <point x="392" y="-21" type="line"/>
+      <point x="392" y="646" type="line"/>
+      <point x="441" y="646" type="line"/>
     </contour>
     <contour>
-      <point x="1700" y="-51" type="line"/>
-      <point x="1577" y="-51" type="line"/>
-      <point x="1577" y="1587" type="line"/>
-      <point x="1700" y="1587" type="line"/>
+      <point x="692" y="-21" type="line"/>
+      <point x="642" y="-21" type="line"/>
+      <point x="642" y="646" type="line"/>
+      <point x="692" y="646" type="line"/>
     </contour>
     <contour>
-      <point x="471" y="-51" type="line"/>
-      <point x="348" y="-51" type="line"/>
-      <point x="348" y="1587" type="line"/>
-      <point x="471" y="1587" type="line"/>
+      <point x="192" y="-21" type="line"/>
+      <point x="142" y="-21" type="line"/>
+      <point x="142" y="646" type="line"/>
+      <point x="192" y="646" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,21 +30,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>348</integer>
+            <integer>142</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>963</integer>
+            <integer>392</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1577</integer>
+            <integer>642</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

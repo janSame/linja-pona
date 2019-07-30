@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="supa" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E665"/>
   <outline>
     <contour>
-      <point x="1610" y="1116" type="line"/>
-      <point x="1644" y="307" type="line"/>
-      <point x="1521" y="307" type="line"/>
-      <point x="1487" y="1116" type="line"/>
-      <point x="560" y="1116" type="line"/>
-      <point x="527" y="307" type="line"/>
-      <point x="404" y="307" type="line"/>
-      <point x="437" y="1116" type="line"/>
-      <point x="154" y="1116" type="line"/>
-      <point x="154" y="1239" type="line"/>
-      <point x="1894" y="1239" type="line"/>
-      <point x="1894" y="1116" type="line"/>
+      <point x="655" y="454" type="line"/>
+      <point x="669" y="125" type="line"/>
+      <point x="619" y="125" type="line"/>
+      <point x="605" y="454" type="line"/>
+      <point x="228" y="454" type="line"/>
+      <point x="214" y="125" type="line"/>
+      <point x="164" y="125" type="line"/>
+      <point x="178" y="454" type="line"/>
+      <point x="63" y="454" type="line"/>
+      <point x="63" y="504" type="line"/>
+      <point x="771" y="504" type="line"/>
+      <point x="771" y="454" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,36 +26,36 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1116</integer>
+            <integer>454</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>404</integer>
+            <integer>164</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>437</integer>
+            <integer>178</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1487</integer>
+            <integer>605</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1521</integer>
+            <integer>619</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>

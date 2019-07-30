@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pona" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="E654"/>
   <outline>
     <contour>
-      <point x="1024" y="195" type="curve" smooth="yes"/>
-      <point x="731" y="195"/>
-      <point x="509" y="343"/>
-      <point x="362" y="516" type="curve" smooth="yes"/>
-      <point x="207" y="698"/>
-      <point x="93" y="961"/>
-      <point x="93" y="1280" type="curve"/>
-      <point x="215" y="1280" type="line"/>
-      <point x="215" y="749"/>
-      <point x="578" y="317"/>
-      <point x="1024" y="317" type="curve" smooth="yes"/>
-      <point x="1470" y="317"/>
-      <point x="1833" y="749"/>
-      <point x="1833" y="1280" type="curve"/>
-      <point x="1955" y="1280" type="line"/>
-      <point x="1955" y="961"/>
-      <point x="1841" y="698"/>
-      <point x="1686" y="516" type="curve" smooth="yes"/>
-      <point x="1539" y="343"/>
-      <point x="1317" y="195"/>
+      <point x="417" y="79" type="curve" smooth="yes"/>
+      <point x="298" y="79"/>
+      <point x="207" y="140"/>
+      <point x="147" y="210" type="curve" smooth="yes"/>
+      <point x="84" y="284"/>
+      <point x="38" y="391"/>
+      <point x="38" y="521" type="curve"/>
+      <point x="87" y="521" type="line"/>
+      <point x="87" y="305"/>
+      <point x="236" y="129"/>
+      <point x="417" y="129" type="curve" smooth="yes"/>
+      <point x="598" y="129"/>
+      <point x="746" y="305"/>
+      <point x="746" y="521" type="curve"/>
+      <point x="795" y="521" type="line"/>
+      <point x="795" y="391"/>
+      <point x="749" y="284"/>
+      <point x="686" y="210" type="curve" smooth="yes"/>
+      <point x="626" y="140"/>
+      <point x="536" y="79"/>
     </contour>
     <contour>
-      <point x="1025" y="1365" type="move" name="Anchor"/>
+      <point x="417" y="555" type="move" name="Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -37,24 +37,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>195</integer>
+            <integer>79</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>93</integer>
+            <integer>38</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1833</integer>
+            <integer>746</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>49</integer>
           </dict>
         </array>
       </dict>

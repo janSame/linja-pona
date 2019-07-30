@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
-  <advance width="1074"/>
+  <advance width="436"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="879" y="1471" type="line"/>
-      <point x="350" y="0" type="line"/>
-      <point x="189" y="0" type="line"/>
-      <point x="720" y="1471" type="line"/>
+      <point x="358" y="598" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="293" y="598" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>77</integer>
+            <key>width</key>
+            <integer>281</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

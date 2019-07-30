@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="taso.mark" format="1">
-  <advance width="2048"/>
+  <advance width="833"/>
   <unicode hex="F205"/>
   <outline>
     <contour>
-      <point x="1116" y="855" type="line"/>
-      <point x="1116" y="1270" type="line"/>
-      <point x="1239" y="1270" type="line"/>
-      <point x="1239" y="317" type="line"/>
-      <point x="1116" y="317" type="line"/>
-      <point x="1116" y="732" type="line"/>
-      <point x="614" y="732" type="line"/>
-      <point x="614" y="855" type="line"/>
+      <point x="454" y="348" type="line"/>
+      <point x="454" y="517" type="line"/>
+      <point x="504" y="517" type="line"/>
+      <point x="504" y="129" type="line"/>
+      <point x="454" y="129" type="line"/>
+      <point x="454" y="298" type="line"/>
+      <point x="250" y="298" type="line"/>
+      <point x="250" y="348" type="line"/>
     </contour>
     <contour>
-      <point x="1025" y="800" type="move" name="_Anchor"/>
+      <point x="417" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -25,18 +25,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>732</integer>
+            <integer>298</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>1116</integer>
+            <integer>454</integer>
             <key>width</key>
-            <integer>123</integer>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>
