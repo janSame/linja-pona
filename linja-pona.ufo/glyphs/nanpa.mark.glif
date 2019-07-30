@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nanpa.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F162"/>
   <outline>
     <contour>
-      <point x="522" y="533" type="line"/>
-      <point x="522" y="428" type="line"/>
-      <point x="627" y="428" type="line"/>
-      <point x="627" y="382" type="line"/>
-      <point x="522" y="382" type="line"/>
-      <point x="522" y="264" type="line"/>
-      <point x="627" y="264" type="line"/>
-      <point x="627" y="218" type="line"/>
-      <point x="522" y="218" type="line"/>
-      <point x="522" y="112" type="line"/>
-      <point x="476" y="112" type="line"/>
-      <point x="476" y="218" type="line"/>
-      <point x="358" y="218" type="line"/>
-      <point x="358" y="112" type="line"/>
-      <point x="312" y="112" type="line"/>
-      <point x="312" y="218" type="line"/>
-      <point x="206" y="218" type="line"/>
-      <point x="206" y="264" type="line"/>
-      <point x="312" y="264" type="line"/>
-      <point x="312" y="382" type="line"/>
-      <point x="206" y="382" type="line"/>
-      <point x="206" y="428" type="line"/>
-      <point x="312" y="428" type="line"/>
-      <point x="312" y="533" type="line"/>
-      <point x="358" y="533" type="line"/>
-      <point x="358" y="428" type="line"/>
-      <point x="476" y="428" type="line"/>
-      <point x="476" y="533" type="line"/>
+      <point x="-311" y="533" type="line"/>
+      <point x="-311" y="428" type="line"/>
+      <point x="-206" y="428" type="line"/>
+      <point x="-206" y="382" type="line"/>
+      <point x="-311" y="382" type="line"/>
+      <point x="-311" y="264" type="line"/>
+      <point x="-206" y="264" type="line"/>
+      <point x="-206" y="218" type="line"/>
+      <point x="-311" y="218" type="line"/>
+      <point x="-311" y="112" type="line"/>
+      <point x="-357" y="112" type="line"/>
+      <point x="-357" y="218" type="line"/>
+      <point x="-475" y="218" type="line"/>
+      <point x="-475" y="112" type="line"/>
+      <point x="-521" y="112" type="line"/>
+      <point x="-521" y="218" type="line"/>
+      <point x="-627" y="218" type="line"/>
+      <point x="-627" y="264" type="line"/>
+      <point x="-521" y="264" type="line"/>
+      <point x="-521" y="382" type="line"/>
+      <point x="-627" y="382" type="line"/>
+      <point x="-627" y="428" type="line"/>
+      <point x="-521" y="428" type="line"/>
+      <point x="-521" y="533" type="line"/>
+      <point x="-475" y="533" type="line"/>
+      <point x="-475" y="428" type="line"/>
+      <point x="-357" y="428" type="line"/>
+      <point x="-357" y="533" type="line"/>
     </contour>
     <contour>
-      <point x="476" y="264" type="line"/>
-      <point x="476" y="382" type="line"/>
-      <point x="358" y="382" type="line"/>
-      <point x="358" y="264" type="line"/>
+      <point x="-357" y="264" type="line"/>
+      <point x="-357" y="382" type="line"/>
+      <point x="-475" y="382" type="line"/>
+      <point x="-475" y="264" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -66,13 +66,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>312</integer>
+            <integer>-521</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>476</integer>
+            <integer>-357</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>

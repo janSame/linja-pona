@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kalama.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F122"/>
   <outline>
     <contour>
-      <point x="417" y="98" type="curve" smooth="yes"/>
-      <point x="360" y="98"/>
-      <point x="307" y="119"/>
-      <point x="268" y="158" type="curve" smooth="yes"/>
-      <point x="228" y="197"/>
-      <point x="206" y="251"/>
-      <point x="206" y="308" type="curve" smooth="yes"/>
-      <point x="206" y="331" type="line"/>
-      <point x="627" y="331" type="line"/>
-      <point x="627" y="308" type="line" smooth="yes"/>
-      <point x="627" y="251"/>
-      <point x="605" y="197"/>
-      <point x="565" y="158" type="curve" smooth="yes"/>
-      <point x="526" y="119"/>
-      <point x="474" y="98"/>
+      <point x="-416" y="98" type="curve" smooth="yes"/>
+      <point x="-473" y="98"/>
+      <point x="-526" y="119"/>
+      <point x="-565" y="158" type="curve" smooth="yes"/>
+      <point x="-605" y="197"/>
+      <point x="-627" y="251"/>
+      <point x="-627" y="308" type="curve" smooth="yes"/>
+      <point x="-627" y="331" type="line"/>
+      <point x="-206" y="331" type="line"/>
+      <point x="-206" y="308" type="line" smooth="yes"/>
+      <point x="-206" y="251"/>
+      <point x="-228" y="197"/>
+      <point x="-268" y="158" type="curve" smooth="yes"/>
+      <point x="-307" y="119"/>
+      <point x="-359" y="98"/>
     </contour>
     <contour>
-      <point x="253" y="285" type="line"/>
-      <point x="264" y="206"/>
-      <point x="332" y="144"/>
-      <point x="417" y="144" type="curve" smooth="yes"/>
-      <point x="502" y="144"/>
-      <point x="569" y="206"/>
-      <point x="580" y="285" type="curve"/>
+      <point x="-580" y="285" type="line"/>
+      <point x="-569" y="206"/>
+      <point x="-501" y="144"/>
+      <point x="-416" y="144" type="curve" smooth="yes"/>
+      <point x="-331" y="144"/>
+      <point x="-264" y="206"/>
+      <point x="-253" y="285" type="curve"/>
     </contour>
     <contour>
-      <point x="439" y="437" type="line"/>
-      <point x="394" y="437" type="line"/>
-      <point x="394" y="563" type="line"/>
-      <point x="439" y="563" type="line"/>
+      <point x="-394" y="437" type="line"/>
+      <point x="-439" y="437" type="line"/>
+      <point x="-439" y="563" type="line"/>
+      <point x="-394" y="563" type="line"/>
     </contour>
     <contour>
-      <point x="550" y="382" type="line"/>
-      <point x="513" y="410" type="line"/>
-      <point x="586" y="507" type="line"/>
-      <point x="622" y="480" type="line"/>
+      <point x="-283" y="382" type="line"/>
+      <point x="-320" y="410" type="line"/>
+      <point x="-247" y="507" type="line"/>
+      <point x="-211" y="480" type="line"/>
     </contour>
     <contour>
-      <point x="284" y="382" type="line"/>
-      <point x="211" y="480" type="line"/>
-      <point x="247" y="507" type="line"/>
-      <point x="320" y="410" type="line"/>
+      <point x="-549" y="382" type="line"/>
+      <point x="-622" y="480" type="line"/>
+      <point x="-586" y="507" type="line"/>
+      <point x="-513" y="410" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -74,7 +74,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>394</integer>
+            <integer>-439</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>

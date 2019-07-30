@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="namako.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F225"/>
   <outline>
     <contour>
-      <point x="325" y="298" type="line"/>
-      <point x="188" y="298" type="line"/>
-      <point x="188" y="348" type="line"/>
-      <point x="325" y="348" type="line"/>
+      <point x="-508" y="298" type="line"/>
+      <point x="-645" y="298" type="line"/>
+      <point x="-645" y="348" type="line"/>
+      <point x="-508" y="348" type="line"/>
     </contour>
     <contour>
-      <point x="646" y="298" type="line"/>
-      <point x="508" y="298" type="line"/>
-      <point x="508" y="348" type="line"/>
-      <point x="646" y="348" type="line"/>
+      <point x="-187" y="298" type="line"/>
+      <point x="-325" y="298" type="line"/>
+      <point x="-325" y="348" type="line"/>
+      <point x="-187" y="348" type="line"/>
     </contour>
     <contour>
-      <point x="441" y="94" type="line"/>
-      <point x="392" y="94" type="line"/>
-      <point x="392" y="231" type="line"/>
-      <point x="441" y="231" type="line"/>
+      <point x="-392" y="94" type="line"/>
+      <point x="-441" y="94" type="line"/>
+      <point x="-441" y="231" type="line"/>
+      <point x="-392" y="231" type="line"/>
     </contour>
     <contour>
-      <point x="441" y="414" type="line"/>
-      <point x="392" y="414" type="line"/>
-      <point x="392" y="552" type="line"/>
-      <point x="441" y="552" type="line"/>
+      <point x="-392" y="414" type="line"/>
+      <point x="-441" y="414" type="line"/>
+      <point x="-441" y="552" type="line"/>
+      <point x="-392" y="552" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>392</integer>
+            <integer>-441</integer>
             <key>width</key>
             <integer>49</integer>
           </dict>

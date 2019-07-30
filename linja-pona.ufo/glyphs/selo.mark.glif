@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="selo.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F189"/>
   <outline>
     <contour>
-      <point x="221" y="527" type="line"/>
-      <point x="611" y="527" type="line"/>
-      <point x="619" y="148" type="line"/>
-      <point x="574" y="148" type="line"/>
-      <point x="572" y="483" type="line"/>
-      <point x="518" y="483" type="line"/>
-      <point x="522" y="161" type="line"/>
-      <point x="477" y="161" type="line"/>
-      <point x="475" y="483" type="line"/>
-      <point x="358" y="483" type="line"/>
-      <point x="356" y="161" type="line"/>
-      <point x="311" y="161" type="line"/>
-      <point x="315" y="483" type="line"/>
-      <point x="259" y="483" type="line"/>
-      <point x="259" y="148" type="line"/>
-      <point x="214" y="148" type="line"/>
+      <point x="-612" y="527" type="line"/>
+      <point x="-222" y="527" type="line"/>
+      <point x="-214" y="148" type="line"/>
+      <point x="-259" y="148" type="line"/>
+      <point x="-261" y="483" type="line"/>
+      <point x="-315" y="483" type="line"/>
+      <point x="-311" y="161" type="line"/>
+      <point x="-356" y="161" type="line"/>
+      <point x="-358" y="483" type="line"/>
+      <point x="-475" y="483" type="line"/>
+      <point x="-477" y="161" type="line"/>
+      <point x="-522" y="161" type="line"/>
+      <point x="-518" y="483" type="line"/>
+      <point x="-574" y="483" type="line"/>
+      <point x="-574" y="148" type="line"/>
+      <point x="-619" y="148" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -42,37 +42,37 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>214</integer>
+            <integer>-619</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>221</integer>
+            <integer>-612</integer>
             <key>width</key>
             <integer>38</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>311</integer>
+            <integer>-522</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>477</integer>
+            <integer>-356</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>572</integer>
+            <integer>-261</integer>
             <key>width</key>
             <integer>39</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>574</integer>
+            <integer>-259</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>

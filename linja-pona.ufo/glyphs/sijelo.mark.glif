@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sijelo.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F192"/>
   <outline>
     <contour>
-      <point x="229" y="146" type="line"/>
-      <point x="229" y="523" type="line"/>
-      <point x="604" y="523" type="line"/>
-      <point x="604" y="146" type="line"/>
-      <point x="558" y="146" type="line"/>
-      <point x="558" y="477" type="line"/>
-      <point x="439" y="477" type="line"/>
-      <point x="439" y="161" type="line"/>
-      <point x="394" y="161" type="line"/>
-      <point x="394" y="477" type="line"/>
-      <point x="275" y="477" type="line"/>
-      <point x="275" y="146" type="line"/>
+      <point x="-604" y="146" type="line"/>
+      <point x="-604" y="523" type="line"/>
+      <point x="-229" y="523" type="line"/>
+      <point x="-229" y="146" type="line"/>
+      <point x="-275" y="146" type="line"/>
+      <point x="-275" y="477" type="line"/>
+      <point x="-394" y="477" type="line"/>
+      <point x="-394" y="161" type="line"/>
+      <point x="-439" y="161" type="line"/>
+      <point x="-439" y="477" type="line"/>
+      <point x="-558" y="477" type="line"/>
+      <point x="-558" y="146" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -38,19 +38,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>229</integer>
+            <integer>-604</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>394</integer>
+            <integer>-439</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>558</integer>
+            <integer>-275</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>

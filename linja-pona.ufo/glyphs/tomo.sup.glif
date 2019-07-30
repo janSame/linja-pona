@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tomo.sup" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F022"/>
   <outline>
     <contour>
-      <point x="615" y="536" type="line"/>
-      <point x="615" y="386" type="line"/>
-      <point x="220" y="386" type="line"/>
-      <point x="220" y="536" type="line"/>
-      <point x="417" y="714" type="line"/>
+      <point x="-218" y="536" type="line"/>
+      <point x="-218" y="386" type="line"/>
+      <point x="-613" y="386" type="line"/>
+      <point x="-613" y="536" type="line"/>
+      <point x="-416" y="714" type="line"/>
     </contour>
     <contour>
-      <point x="265" y="428" type="line"/>
-      <point x="570" y="428" type="line"/>
-      <point x="570" y="516" type="line"/>
-      <point x="417" y="656" type="line"/>
-      <point x="265" y="516" type="line"/>
+      <point x="-568" y="428" type="line"/>
+      <point x="-263" y="428" type="line"/>
+      <point x="-263" y="516" type="line"/>
+      <point x="-416" y="656" type="line"/>
+      <point x="-568" y="516" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="557" type="move" name="_Anchor"/>
+      <point x="-416" y="557" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -38,13 +38,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>220</integer>
+            <integer>-613</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>570</integer>
+            <integer>-263</integer>
             <key>width</key>
             <integer>45</integer>
           </dict>

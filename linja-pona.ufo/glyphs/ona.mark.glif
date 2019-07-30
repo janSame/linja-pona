@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ona.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F171"/>
   <outline>
     <contour>
-      <point x="468" y="549" type="curve" smooth="yes"/>
-      <point x="525" y="549"/>
-      <point x="571" y="523"/>
-      <point x="601" y="491" type="curve" smooth="yes"/>
-      <point x="632" y="458"/>
-      <point x="656" y="412"/>
-      <point x="656" y="353" type="curve" smooth="yes"/>
-      <point x="656" y="264"/>
-      <point x="604" y="200"/>
-      <point x="541" y="172" type="curve" smooth="yes"/>
-      <point x="521" y="163"/>
-      <point x="500" y="158"/>
-      <point x="478" y="157" type="curve" smooth="yes"/>
-      <point x="198" y="157" type="line"/>
-      <point x="198" y="205" type="line"/>
-      <point x="344" y="205" type="line"/>
-      <point x="341" y="208"/>
-      <point x="337" y="211"/>
-      <point x="334" y="214" type="curve" smooth="yes"/>
-      <point x="303" y="246"/>
-      <point x="280" y="294"/>
-      <point x="280" y="353" type="curve" smooth="yes"/>
-      <point x="280" y="442"/>
-      <point x="331" y="505"/>
-      <point x="394" y="533" type="curve" smooth="yes"/>
-      <point x="417" y="543"/>
-      <point x="442" y="549"/>
+      <point x="-365" y="549" type="curve" smooth="yes"/>
+      <point x="-308" y="549"/>
+      <point x="-262" y="523"/>
+      <point x="-232" y="491" type="curve" smooth="yes"/>
+      <point x="-201" y="458"/>
+      <point x="-177" y="412"/>
+      <point x="-177" y="353" type="curve" smooth="yes"/>
+      <point x="-177" y="264"/>
+      <point x="-229" y="200"/>
+      <point x="-292" y="172" type="curve" smooth="yes"/>
+      <point x="-312" y="163"/>
+      <point x="-333" y="158"/>
+      <point x="-355" y="157" type="curve" smooth="yes"/>
+      <point x="-635" y="157" type="line"/>
+      <point x="-635" y="205" type="line"/>
+      <point x="-489" y="205" type="line"/>
+      <point x="-492" y="208"/>
+      <point x="-496" y="211"/>
+      <point x="-499" y="214" type="curve" smooth="yes"/>
+      <point x="-530" y="246"/>
+      <point x="-553" y="294"/>
+      <point x="-553" y="353" type="curve" smooth="yes"/>
+      <point x="-553" y="442"/>
+      <point x="-502" y="505"/>
+      <point x="-439" y="533" type="curve" smooth="yes"/>
+      <point x="-416" y="543"/>
+      <point x="-391" y="549"/>
     </contour>
     <contour>
-      <point x="328" y="353" type="curve" smooth="yes"/>
-      <point x="328" y="274"/>
-      <point x="390" y="205"/>
-      <point x="468" y="205" type="curve" smooth="yes"/>
-      <point x="546" y="205"/>
-      <point x="608" y="274"/>
-      <point x="608" y="353" type="curve" smooth="yes"/>
-      <point x="608" y="432"/>
-      <point x="546" y="500"/>
-      <point x="468" y="500" type="curve" smooth="yes"/>
-      <point x="389" y="500"/>
-      <point x="328" y="432"/>
+      <point x="-505" y="353" type="curve" smooth="yes"/>
+      <point x="-505" y="274"/>
+      <point x="-443" y="205"/>
+      <point x="-365" y="205" type="curve" smooth="yes"/>
+      <point x="-287" y="205"/>
+      <point x="-225" y="274"/>
+      <point x="-225" y="353" type="curve" smooth="yes"/>
+      <point x="-225" y="432"/>
+      <point x="-287" y="500"/>
+      <point x="-365" y="500" type="curve" smooth="yes"/>
+      <point x="-444" y="500"/>
+      <point x="-505" y="432"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -73,13 +73,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>280</integer>
+            <integer>-553</integer>
             <key>width</key>
             <integer>48</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>608</integer>
+            <integer>-225</integer>
             <key>width</key>
             <integer>48</integer>
           </dict>

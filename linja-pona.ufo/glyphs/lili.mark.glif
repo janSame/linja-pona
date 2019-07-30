@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lili.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F141"/>
   <outline>
     <contour>
-      <point x="417" y="211" type="line"/>
-      <point x="280" y="380" type="line"/>
-      <point x="319" y="411" type="line"/>
-      <point x="417" y="290" type="line"/>
-      <point x="514" y="411" type="line"/>
-      <point x="553" y="380" type="line"/>
+      <point x="-416" y="211" type="line"/>
+      <point x="-553" y="380" type="line"/>
+      <point x="-514" y="411" type="line"/>
+      <point x="-416" y="290" type="line"/>
+      <point x="-319" y="411" type="line"/>
+      <point x="-280" y="380" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>280</integer>
+            <integer>-553</integer>
             <key>width</key>
             <integer>273</integer>
           </dict>

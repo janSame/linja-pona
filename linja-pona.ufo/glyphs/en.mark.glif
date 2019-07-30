@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="en.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F111"/>
   <outline>
     <contour>
-      <point x="441" y="525" type="line"/>
-      <point x="441" y="348" type="line"/>
-      <point x="619" y="348" type="line"/>
-      <point x="619" y="298" type="line"/>
-      <point x="441" y="298" type="line"/>
-      <point x="441" y="121" type="line"/>
-      <point x="392" y="121" type="line"/>
-      <point x="392" y="298" type="line"/>
-      <point x="214" y="298" type="line"/>
-      <point x="214" y="348" type="line"/>
-      <point x="392" y="348" type="line"/>
-      <point x="392" y="525" type="line"/>
+      <point x="-392" y="525" type="line"/>
+      <point x="-392" y="348" type="line"/>
+      <point x="-214" y="348" type="line"/>
+      <point x="-214" y="298" type="line"/>
+      <point x="-392" y="298" type="line"/>
+      <point x="-392" y="121" type="line"/>
+      <point x="-441" y="121" type="line"/>
+      <point x="-441" y="298" type="line"/>
+      <point x="-619" y="298" type="line"/>
+      <point x="-619" y="348" type="line"/>
+      <point x="-441" y="348" type="line"/>
+      <point x="-441" y="525" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>392</integer>
+            <integer>-441</integer>
             <key>width</key>
             <integer>49</integer>
           </dict>

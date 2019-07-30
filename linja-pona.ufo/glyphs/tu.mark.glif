@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tu.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F211"/>
   <outline>
     <contour>
-      <point x="337" y="141" type="line"/>
-      <point x="288" y="141" type="line"/>
-      <point x="288" y="504" type="line"/>
-      <point x="337" y="504" type="line"/>
+      <point x="-496" y="141" type="line"/>
+      <point x="-545" y="141" type="line"/>
+      <point x="-545" y="504" type="line"/>
+      <point x="-496" y="504" type="line"/>
     </contour>
     <contour>
-      <point x="546" y="141" type="line"/>
-      <point x="496" y="141" type="line"/>
-      <point x="496" y="504" type="line"/>
-      <point x="546" y="504" type="line"/>
+      <point x="-287" y="141" type="line"/>
+      <point x="-337" y="141" type="line"/>
+      <point x="-337" y="504" type="line"/>
+      <point x="-287" y="504" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -27,13 +27,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>288</integer>
+            <integer>-545</integer>
             <key>width</key>
             <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>496</integer>
+            <integer>-337</integer>
             <key>width</key>
             <integer>50</integer>
           </dict>

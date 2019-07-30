@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sijelo.mark.small" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="E923"/>
   <outline>
     <contour>
-      <point x="258" y="83" type="line"/>
-      <point x="258" y="398" type="line"/>
-      <point x="575" y="398" type="line"/>
-      <point x="575" y="83" type="line"/>
-      <point x="529" y="83" type="line"/>
-      <point x="529" y="352" type="line"/>
-      <point x="439" y="352" type="line"/>
-      <point x="439" y="96" type="line"/>
-      <point x="393" y="96" type="line"/>
-      <point x="393" y="352" type="line"/>
-      <point x="304" y="352" type="line"/>
-      <point x="304" y="83" type="line"/>
+      <point x="-575" y="83" type="line"/>
+      <point x="-575" y="398" type="line"/>
+      <point x="-258" y="398" type="line"/>
+      <point x="-258" y="83" type="line"/>
+      <point x="-304" y="83" type="line"/>
+      <point x="-304" y="352" type="line"/>
+      <point x="-394" y="352" type="line"/>
+      <point x="-394" y="96" type="line"/>
+      <point x="-440" y="96" type="line"/>
+      <point x="-440" y="352" type="line"/>
+      <point x="-529" y="352" type="line"/>
+      <point x="-529" y="83" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="240" type="move" name="_Anchor"/>
+      <point x="-416" y="240" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -38,19 +38,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>258</integer>
+            <integer>-575</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>393</integer>
+            <integer>-440</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>529</integer>
+            <integer>-304</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>

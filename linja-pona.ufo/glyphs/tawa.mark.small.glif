@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tawa.mark.small" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="E915"/>
   <outline>
     <contour>
-      <point x="617" y="58" type="line"/>
-      <point x="522" y="58" type="line"/>
-      <point x="421" y="302" type="line"/>
-      <point x="297" y="123" type="line"/>
-      <point x="345" y="107" type="line"/>
-      <point x="329" y="60" type="line"/>
-      <point x="219" y="98" type="line"/>
-      <point x="432" y="406" type="line"/>
-      <point x="555" y="108" type="line"/>
-      <point x="617" y="108" type="line"/>
+      <point x="-216" y="58" type="line"/>
+      <point x="-311" y="58" type="line"/>
+      <point x="-412" y="302" type="line"/>
+      <point x="-536" y="123" type="line"/>
+      <point x="-488" y="107" type="line"/>
+      <point x="-504" y="60" type="line"/>
+      <point x="-614" y="98" type="line"/>
+      <point x="-401" y="406" type="line"/>
+      <point x="-278" y="108" type="line"/>
+      <point x="-216" y="108" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="244" type="move" name="_Anchor"/>
+      <point x="-416" y="244" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>

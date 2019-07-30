@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lili.sup" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F065"/>
   <outline>
     <contour>
-      <point x="417" y="479" type="line"/>
-      <point x="312" y="608" type="line"/>
-      <point x="351" y="640" type="line"/>
-      <point x="417" y="559" type="line"/>
-      <point x="483" y="640" type="line"/>
-      <point x="521" y="608" type="line"/>
+      <point x="-416" y="479" type="line"/>
+      <point x="-521" y="608" type="line"/>
+      <point x="-482" y="640" type="line"/>
+      <point x="-416" y="559" type="line"/>
+      <point x="-350" y="640" type="line"/>
+      <point x="-312" y="608" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="582" type="move" name="_Anchor"/>
+      <point x="-416" y="582" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>312</integer>
+            <integer>-521</integer>
             <key>width</key>
             <integer>209</integer>
           </dict>

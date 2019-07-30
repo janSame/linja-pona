@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lipu.mark" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="F143"/>
   <outline>
     <contour>
-      <point x="583" y="110" type="line"/>
-      <point x="250" y="110" type="line"/>
-      <point x="250" y="535" type="line"/>
-      <point x="583" y="535" type="line"/>
+      <point x="-250" y="110" type="line"/>
+      <point x="-583" y="110" type="line"/>
+      <point x="-583" y="535" type="line"/>
+      <point x="-250" y="535" type="line"/>
     </contour>
     <contour>
-      <point x="300" y="160" type="line"/>
-      <point x="533" y="160" type="line"/>
-      <point x="533" y="485" type="line"/>
-      <point x="300" y="485" type="line"/>
+      <point x="-533" y="160" type="line"/>
+      <point x="-300" y="160" type="line"/>
+      <point x="-300" y="485" type="line"/>
+      <point x="-533" y="485" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="325" type="move" name="_Anchor"/>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -42,13 +42,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>250</integer>
+            <integer>-583</integer>
             <key>width</key>
             <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>533</integer>
+            <integer>-300</integer>
             <key>width</key>
             <integer>50</integer>
           </dict>

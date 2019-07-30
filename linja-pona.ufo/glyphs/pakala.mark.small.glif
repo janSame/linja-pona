@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pakala.mark.small" format="1">
-  <advance width="833"/>
+  <advance width="0"/>
   <unicode hex="E896"/>
   <outline>
     <contour>
-      <point x="401" y="443" type="line"/>
-      <point x="266" y="443" type="line"/>
-      <point x="266" y="137" type="line"/>
-      <point x="382" y="137" type="line"/>
-      <point x="455" y="282" type="line"/>
-      <point x="315" y="282" type="line"/>
-      <point x="404" y="438" type="line"/>
+      <point x="-432" y="443" type="line"/>
+      <point x="-567" y="443" type="line"/>
+      <point x="-567" y="137" type="line"/>
+      <point x="-451" y="137" type="line"/>
+      <point x="-378" y="282" type="line"/>
+      <point x="-518" y="282" type="line"/>
+      <point x="-429" y="438" type="line"/>
     </contour>
     <contour>
-      <point x="516" y="320" type="line"/>
-      <point x="425" y="137" type="line"/>
-      <point x="567" y="137" type="line"/>
-      <point x="567" y="443" type="line"/>
-      <point x="450" y="443" type="line"/>
-      <point x="380" y="320" type="line"/>
+      <point x="-317" y="320" type="line"/>
+      <point x="-408" y="137" type="line"/>
+      <point x="-266" y="137" type="line"/>
+      <point x="-266" y="443" type="line"/>
+      <point x="-383" y="443" type="line"/>
+      <point x="-453" y="320" type="line"/>
     </contour>
     <contour>
-      <point x="222" y="97" type="line"/>
-      <point x="222" y="483" type="line"/>
-      <point x="611" y="483" type="line"/>
-      <point x="611" y="97" type="line"/>
+      <point x="-611" y="97" type="line"/>
+      <point x="-611" y="483" type="line"/>
+      <point x="-222" y="483" type="line"/>
+      <point x="-222" y="97" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="299" type="move" name="_Anchor"/>
+      <point x="-416" y="299" type="move" name="_Anchor"/>
     </contour>
   </outline>
   <lib>
@@ -59,13 +59,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>222</integer>
+            <integer>-611</integer>
             <key>width</key>
             <integer>44</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>567</integer>
+            <integer>-266</integer>
             <key>width</key>
             <integer>44</integer>
           </dict>
