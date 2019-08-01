@@ -5,6 +5,7 @@ jobs:
       - image: circleci/python:3.7.4-buster
     steps:
       - checkout
+      - run: git submodule update --init
       - run: cd pysilfont && sudo python setup.py install && cd ..
       - run: sudo pip install fontmake
       - run: sudo apt-get install woff-tools
