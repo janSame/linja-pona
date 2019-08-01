@@ -10,6 +10,12 @@ With linja pona, I wanted to create a standard font that was simple and that cou
 
 --- [jan Same](https://musilili.net/linja-pona/)
 
+## Version 4
+
+This version uses OpenType features to dynamically compose compound glyphs, rather than relying on including precomposed glyphs in the font.
+As a result, it allows [over 6,000 new compound glyphs](https://davidar.github.io/linja-pona/nimi) ([screenshot](images/nimi.png)) to be used.
+It also has better webfont support.
+
 ## Usage
 
 To use *compound glyphs*, put a *hyphen* or *plus* between two words,
