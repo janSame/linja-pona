@@ -472,7 +472,7 @@ lookup caltContextualAlternates {
     sub [\awen.base \ike.base \ilo.base \kalama \kama.base \kasi.base \ken \linja.base 
 	\lon.base \luka.base \lukin.base \ma.base \moku \nimi.base \open \pali 
 	\pilin \pini.base \pona \selo.base \sijelo.base \suli \supa.base 
-	\tawa.base \tenpo.base \uta ] [\a.mark \akesi.mark \ala.mark \alasa.mark \ale.mark \anpa.mark \ante.mark 
+	\tawa.base \telo.base \tenpo.base \uta ] [\a.mark \akesi.mark \ala.mark \alasa.mark \ale.mark \anpa.mark \ante.mark 
 	\anu.mark \awen.mark \e.mark \en.mark \esun.mark \ijo.mark \ike.mark 
 	\ilo.mark \insa.mark \jaki.mark \jan.mark \jelo.mark \jo.mark 
 	\kala.mark \kalama.mark \kama.mark \kasi.mark \ken.mark \kepeken.mark 
@@ -517,7 +517,7 @@ lookup caltContextualAlternates {
     sub [\jo \kala \kili \kiwen \ko \kon \kon.base \lape \lawa \len \len.base \lipu \mama 
 	\mama.base \meli \meli.base \mi \mun \musi \ona \palisa \pana \pilin \poka 
 	\poki \sike \sike.base \sina \sitelen \sitelen.base \sona \suno \tan 
-	\telo \telo.base \toki \wawa \wile ] [\a.mark \akesi.mark \ala.mark \alasa.mark \ale.mark \anpa.mark \ante.mark 
+	\toki \wawa \wile ] [\a.mark \akesi.mark \ala.mark \alasa.mark \ale.mark \anpa.mark \ante.mark 
 	\anu.mark \awen.mark \e.mark \en.mark \esun.mark \ijo.mark \ike.mark 
 	\ilo.mark \insa.mark \jaki.mark \jan.mark \jelo.mark \jo.mark 
 	\kala.mark \kalama.mark \kama.mark \kasi.mark \ken.mark \kepeken.mark 
