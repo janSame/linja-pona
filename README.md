@@ -26,7 +26,8 @@ To use *cartouches*, use square brackets and underscores before each glyph,
 e.g.: *ma [_kasi_alasa_nasin_awen_telo_aa] li suli*
 
 To use a *long pi*, put a *hyphen* or *plus sign* after a *pi*.   
-The more *hyphens* or *plus signs* you input, the longer the pi will be. The maximum length is 3 *hyphens* or *plus signs*.
+The more *hyphens* or *plus signs* you input, the longer the pi will be. The maximum length is 3 *hyphens* or *plus signs*.  
+e.g.: *toki pi- ma-pona, toki pi-- ma pona, toki pi+++ ma pona suli*
 
 ### HTML
 
