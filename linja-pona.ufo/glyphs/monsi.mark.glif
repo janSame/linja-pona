@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="monsi.mark" format="1">
+  <unicode hex="F157"/>
+  <outline>
+    <contour>
+      <point x="-250" y="110" type="line"/>
+      <point x="-487" y="110" type="line"/>
+      <point x="-487" y="535" type="line"/>
+      <point x="-250" y="535" type="line"/>
+      <point x="-250" y="485" type="line"/>
+      <point x="-437" y="485" type="line"/>
+      <point x="-437" y="160" type="line"/>
+      <point x="-250" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="-542" y="323" type="curve" smooth="yes"/>
+      <point x="-542" y="301"/>
+      <point x="-559" y="284"/>
+      <point x="-581" y="284" type="curve" smooth="yes"/>
+      <point x="-603" y="284"/>
+      <point x="-620" y="301"/>
+      <point x="-620" y="323" type="curve" smooth="yes"/>
+      <point x="-620" y="345"/>
+      <point x="-603" y="362"/>
+      <point x="-581" y="362" type="curve" smooth="yes"/>
+      <point x="-559" y="362"/>
+      <point x="-542" y="345"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>110</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>284</integer>
+            <key>width</key>
+            <integer>78</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-620</integer>
+            <key>width</key>
+            <integer>78</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-487</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

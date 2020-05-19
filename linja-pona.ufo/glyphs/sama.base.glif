@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sama.base" format="1">
+  <advance width="833"/>
+  <unicode hex="F029"/>
+  <outline>
+    <contour>
+      <point x="708" y="54" type="line"/>
+      <point x="125" y="54" type="line"/>
+      <point x="125" y="104" type="line"/>
+      <point x="708" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="708" y="-46" type="line"/>
+      <point x="125" y="-46" type="line"/>
+      <point x="125" y="4" type="line"/>
+      <point x="708" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="386" type="move" name="Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-46</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>54</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

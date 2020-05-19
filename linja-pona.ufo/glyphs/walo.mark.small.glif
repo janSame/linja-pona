@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="walo.mark.small" format="1">
+  <unicode hex="E825"/>
+  <outline>
+    <contour>
+      <point x="-239" y="402" type="line"/>
+      <point x="-312" y="345" type="line"/>
+      <point x="-213" y="178" type="line"/>
+      <point x="-620" y="178" type="line"/>
+      <point x="-520" y="345" type="line"/>
+      <point x="-594" y="402" type="line"/>
+      <point x="-565" y="432" type="line"/>
+      <point x="-499" y="381" type="line"/>
+      <point x="-416" y="518" type="line"/>
+      <point x="-334" y="380" type="line"/>
+      <point x="-268" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="-546" y="219" type="line"/>
+      <point x="-287" y="219" type="line"/>
+      <point x="-416" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>178</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

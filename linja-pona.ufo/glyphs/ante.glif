@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ante" format="1">
+  <advance width="833"/>
+  <unicode hex="E606"/>
+  <outline>
+    <contour>
+      <point x="417" y="345" type="line"/>
+      <point x="69" y="583" type="line"/>
+      <point x="98" y="624" type="line"/>
+      <point x="417" y="405" type="line"/>
+      <point x="736" y="624" type="line"/>
+      <point x="764" y="583" type="line"/>
+    </contour>
+    <contour>
+      <point x="736" y="0" type="line"/>
+      <point x="417" y="220" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="69" y="41" type="line"/>
+      <point x="417" y="280" type="line"/>
+      <point x="764" y="41" type="line"/>
+    </contour>
+  </outline>
+</glyph>

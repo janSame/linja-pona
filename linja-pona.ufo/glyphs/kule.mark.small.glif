@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kule.mark.small" format="1">
+  <unicode hex="E819"/>
+  <outline>
+    <contour>
+      <point x="-239" y="312" type="line"/>
+      <point x="-293" y="312" type="line"/>
+      <point x="-213" y="178" type="line"/>
+      <point x="-620" y="178" type="line"/>
+      <point x="-540" y="312" type="line"/>
+      <point x="-593" y="312" type="line"/>
+      <point x="-593" y="354" type="line"/>
+      <point x="-515" y="354" type="line"/>
+      <point x="-416" y="518" type="line"/>
+      <point x="-318" y="354" type="line"/>
+      <point x="-239" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="-546" y="219" type="line"/>
+      <point x="-287" y="219" type="line"/>
+      <point x="-343" y="312" type="line"/>
+      <point x="-490" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="-465" y="354" type="line"/>
+      <point x="-368" y="354" type="line"/>
+      <point x="-416" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>178</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>312</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

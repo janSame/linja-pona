@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taso.mark" format="1">
+  <unicode hex="F205"/>
+  <outline>
+    <contour>
+      <point x="-379" y="348" type="line"/>
+      <point x="-379" y="517" type="line"/>
+      <point x="-329" y="517" type="line"/>
+      <point x="-329" y="129" type="line"/>
+      <point x="-379" y="129" type="line"/>
+      <point x="-379" y="298" type="line"/>
+      <point x="-583" y="298" type="line"/>
+      <point x="-583" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>298</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-379</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

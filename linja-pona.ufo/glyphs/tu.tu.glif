@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tu.tu" format="1">
+  <advance width="924"/>
+  <unicode hex="E990"/>
+  <outline>
+    <contour>
+      <point x="146" y="-21" type="line"/>
+      <point x="96" y="-21" type="line"/>
+      <point x="96" y="646" type="line"/>
+      <point x="146" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="-21" type="line"/>
+      <point x="325" y="-21" type="line"/>
+      <point x="325" y="646" type="line"/>
+      <point x="375" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="-21" type="line"/>
+      <point x="554" y="-21" type="line"/>
+      <point x="554" y="646" type="line"/>
+      <point x="604" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="833" y="-21" type="line"/>
+      <point x="783" y="-21" type="line"/>
+      <point x="783" y="646" type="line"/>
+      <point x="833" y="646" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>96</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>325</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>554</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>783</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lili.mark" format="1">
+  <unicode hex="F141"/>
+  <outline>
+    <contour>
+      <point x="-416" y="211" type="line"/>
+      <point x="-553" y="380" type="line"/>
+      <point x="-514" y="411" type="line"/>
+      <point x="-416" y="290" type="line"/>
+      <point x="-319" y="411" type="line"/>
+      <point x="-280" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>211</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-553</integer>
+            <key>width</key>
+            <integer>273</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

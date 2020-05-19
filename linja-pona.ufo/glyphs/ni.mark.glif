@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ni.mark" format="1">
+  <unicode hex="F166"/>
+  <outline>
+    <contour>
+      <point x="-394" y="171" type="line"/>
+      <point x="-233" y="309" type="line"/>
+      <point x="-203" y="274" type="line"/>
+      <point x="-416" y="92" type="line"/>
+      <point x="-630" y="274" type="line"/>
+      <point x="-600" y="309" type="line"/>
+      <point x="-439" y="171" type="line"/>
+      <point x="-439" y="562" type="line"/>
+      <point x="-394" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-439</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

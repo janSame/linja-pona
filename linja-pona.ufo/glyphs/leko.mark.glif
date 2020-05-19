@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leko.mark" format="1">
+  <unicode hex="F223"/>
+  <outline>
+    <contour>
+      <point x="-250" y="156" type="line"/>
+      <point x="-583" y="156" type="line"/>
+      <point x="-583" y="489" type="line"/>
+      <point x="-250" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="-541" y="198" type="line"/>
+      <point x="-292" y="198" type="line"/>
+      <point x="-292" y="448" type="line"/>
+      <point x="-541" y="448" type="line"/>
+    </contour>
+    <contour>
+      <point x="-335" y="242" type="line"/>
+      <point x="-498" y="242" type="line"/>
+      <point x="-498" y="404" type="line"/>
+      <point x="-335" y="404" type="line"/>
+    </contour>
+    <contour>
+      <point x="-460" y="279" type="line"/>
+      <point x="-372" y="279" type="line"/>
+      <point x="-372" y="367" type="line"/>
+      <point x="-460" y="367" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>156</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>242</integer>
+            <key>width</key>
+            <integer>37</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>367</integer>
+            <key>width</key>
+            <integer>37</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>448</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-583</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-498</integer>
+            <key>width</key>
+            <integer>38</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-372</integer>
+            <key>width</key>
+            <integer>37</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-292</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

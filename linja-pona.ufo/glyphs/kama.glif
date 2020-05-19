@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kama" format="1">
+  <advance width="833"/>
+  <unicode hex="E616"/>
+  <outline>
+    <contour>
+      <point x="226" y="-25" type="line"/>
+      <point x="63" y="-25" type="line"/>
+      <point x="63" y="25" type="line"/>
+      <point x="190" y="25" type="line"/>
+      <point x="411" y="687" type="line"/>
+      <point x="764" y="50" type="line"/>
+      <point x="593" y="-23" type="line"/>
+      <point x="573" y="23" type="line"/>
+      <point x="694" y="74" type="line"/>
+      <point x="422" y="563" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-25</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lili.sup" format="1">
+  <unicode hex="F065"/>
+  <outline>
+    <contour>
+      <point x="-416" y="479" type="line"/>
+      <point x="-521" y="608" type="line"/>
+      <point x="-482" y="640" type="line"/>
+      <point x="-416" y="559" type="line"/>
+      <point x="-350" y="640" type="line"/>
+      <point x="-312" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="582" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>479</integer>
+            <key>width</key>
+            <integer>161</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-521</integer>
+            <key>width</key>
+            <integer>209</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

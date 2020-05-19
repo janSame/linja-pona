@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tawa" format="1">
+  <advance width="833"/>
+  <unicode hex="E669"/>
+  <outline>
+    <contour>
+      <point x="771" y="-25" type="line"/>
+      <point x="607" y="-25" type="line"/>
+      <point x="411" y="563" type="line"/>
+      <point x="140" y="74" type="line"/>
+      <point x="260" y="23" type="line"/>
+      <point x="240" y="-23" type="line"/>
+      <point x="69" y="50" type="line"/>
+      <point x="422" y="687" type="line"/>
+      <point x="643" y="25" type="line"/>
+      <point x="771" y="25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-25</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

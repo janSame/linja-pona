@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kama.base" format="1">
+  <advance width="833"/>
+  <unicode hex="F025"/>
+  <outline>
+    <contour>
+      <point x="733" y="2" type="curve"/>
+      <point x="683" y="-12"/>
+      <point x="633" y="-25"/>
+      <point x="583" y="-39" type="curve"/>
+      <point x="579" y="-23"/>
+      <point x="574" y="-7"/>
+      <point x="570" y="9" type="curve"/>
+      <point x="595" y="16"/>
+      <point x="619" y="22"/>
+      <point x="644" y="29" type="curve"/>
+      <point x="421" y="290" type="line"/>
+      <point x="249" y="-46" type="line"/>
+      <point x="206" y="-46"/>
+      <point x="163" y="-46"/>
+      <point x="120" y="-46" type="curve"/>
+      <point x="120" y="-29"/>
+      <point x="120" y="-13"/>
+      <point x="120" y="4" type="curve"/>
+      <point x="153" y="4"/>
+      <point x="185" y="4"/>
+      <point x="218" y="4" type="curve"/>
+      <point x="411" y="379" type="line"/>
+      <point x="518" y="253"/>
+      <point x="626" y="128"/>
+    </contour>
+    <contour>
+      <point x="417" y="580" type="move" name="Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-46</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lipu.mark" format="1">
+  <unicode hex="F143"/>
+  <outline>
+    <contour>
+      <point x="-250" y="110" type="line"/>
+      <point x="-583" y="110" type="line"/>
+      <point x="-583" y="535" type="line"/>
+      <point x="-250" y="535" type="line"/>
+    </contour>
+    <contour>
+      <point x="-533" y="160" type="line"/>
+      <point x="-300" y="160" type="line"/>
+      <point x="-300" y="485" type="line"/>
+      <point x="-533" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>110</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-583</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-300</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="awen" format="1">
+  <advance width="833"/>
+  <unicode hex="E608"/>
+  <outline>
+    <contour>
+      <point x="771" y="-25" type="line"/>
+      <point x="628" y="-25" type="line"/>
+      <point x="417" y="552" type="line"/>
+      <point x="205" y="-25" type="line"/>
+      <point x="63" y="-25" type="line"/>
+      <point x="63" y="25" type="line"/>
+      <point x="170" y="25" type="line"/>
+      <point x="417" y="697" type="line"/>
+      <point x="663" y="25" type="line"/>
+      <point x="771" y="25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-25</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

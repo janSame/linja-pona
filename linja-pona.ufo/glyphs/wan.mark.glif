@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wan.mark" format="1">
+  <unicode hex="F216"/>
+  <outline>
+    <contour>
+      <point x="-370" y="131" type="line"/>
+      <point x="-420" y="131" type="line"/>
+      <point x="-420" y="454" type="line"/>
+      <point x="-527" y="381" type="line"/>
+      <point x="-556" y="422" type="line"/>
+      <point x="-370" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-420</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.mark.small" format="1">
+  <unicode hex="E731"/>
+  <outline>
+    <contour>
+      <point x="-576" y="522" type="line"/>
+      <point x="-513" y="459"/>
+      <point x="-451" y="397"/>
+      <point x="-388" y="334" type="curve"/>
+      <point x="-576" y="145" type="line"/>
+      <point x="-606" y="175" type="line"/>
+      <point x="-553" y="228"/>
+      <point x="-500" y="281"/>
+      <point x="-447" y="334" type="curve"/>
+      <point x="-500" y="387"/>
+      <point x="-553" y="439"/>
+      <point x="-606" y="492" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-419" y="522" type="line"/>
+      <point x="-356" y="459"/>
+      <point x="-293" y="397"/>
+      <point x="-230" y="334" type="curve"/>
+      <point x="-419" y="145" type="line"/>
+      <point x="-449" y="175" type="line"/>
+      <point x="-396" y="228"/>
+      <point x="-343" y="281"/>
+      <point x="-290" y="334" type="curve"/>
+      <point x="-343" y="387"/>
+      <point x="-396" y="439"/>
+      <point x="-449" y="492" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-440" y="334" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+</glyph>

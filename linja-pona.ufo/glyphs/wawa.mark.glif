@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawa.mark" format="1">
+  <unicode hex="F218"/>
+  <outline>
+    <contour>
+      <point x="-416" y="489" type="curve" smooth="yes"/>
+      <point x="-370" y="489"/>
+      <point x="-338" y="462"/>
+      <point x="-316" y="432" type="curve" smooth="yes"/>
+      <point x="-291" y="397"/>
+      <point x="-278" y="352"/>
+      <point x="-278" y="304" type="curve" smooth="yes"/>
+      <point x="-278" y="231"/>
+      <point x="-311" y="164"/>
+      <point x="-360" y="134" type="curve" smooth="yes"/>
+      <point x="-378" y="123"/>
+      <point x="-396" y="118"/>
+      <point x="-416" y="118" type="curve" smooth="yes"/>
+      <point x="-462" y="118"/>
+      <point x="-494" y="145"/>
+      <point x="-516" y="175" type="curve" smooth="yes"/>
+      <point x="-541" y="210"/>
+      <point x="-555" y="256"/>
+      <point x="-555" y="304" type="curve" smooth="yes"/>
+      <point x="-555" y="376"/>
+      <point x="-523" y="445"/>
+      <point x="-473" y="473" type="curve" smooth="yes"/>
+      <point x="-455" y="484"/>
+      <point x="-436" y="489"/>
+    </contour>
+    <contour>
+      <point x="-416" y="160" type="curve" smooth="yes"/>
+      <point x="-355" y="160"/>
+      <point x="-320" y="238"/>
+      <point x="-320" y="304" type="curve" smooth="yes"/>
+      <point x="-320" y="369"/>
+      <point x="-355" y="448"/>
+      <point x="-416" y="448" type="curve" smooth="yes"/>
+      <point x="-477" y="448"/>
+      <point x="-513" y="369"/>
+      <point x="-513" y="304" type="curve" smooth="yes"/>
+      <point x="-513" y="238"/>
+      <point x="-477" y="160"/>
+    </contour>
+    <contour>
+      <point x="-268" y="186" type="line"/>
+      <point x="-233" y="490" type="line"/>
+      <point x="-193" y="485" type="line"/>
+      <point x="-228" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="-640" y="485" type="line"/>
+      <point x="-600" y="490" type="line"/>
+      <point x="-564" y="186" type="line"/>
+      <point x="-605" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>118</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>448</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-555</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-320</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="poki.mark" format="1">
+  <unicode hex="F184"/>
+  <outline>
+    <contour>
+      <point x="-225" y="141" type="line"/>
+      <point x="-608" y="141" type="line"/>
+      <point x="-608" y="520" type="line"/>
+      <point x="-558" y="520" type="line"/>
+      <point x="-558" y="191" type="line"/>
+      <point x="-275" y="191" type="line"/>
+      <point x="-275" y="520" type="line"/>
+      <point x="-225" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>141</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-608</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-275</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

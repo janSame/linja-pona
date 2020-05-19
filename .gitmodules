@@ -1,0 +1,3 @@
+[submodule "pysilfont"]
+	path = pysilfont
+	url = https://github.com/silnrsi/pysilfont.git

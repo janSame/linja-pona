@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="suli" format="1">
+  <advance width="833"/>
+  <unicode hex="E663"/>
+  <outline>
+    <contour>
+      <point x="417" y="-49" type="line"/>
+      <point x="393" y="35" type="line" smooth="yes"/>
+      <point x="393" y="36"/>
+      <point x="372" y="108"/>
+      <point x="321" y="217" type="curve" smooth="yes"/>
+      <point x="252" y="366"/>
+      <point x="162" y="507"/>
+      <point x="64" y="630" type="curve"/>
+      <point x="103" y="661" type="line"/>
+      <point x="228" y="504"/>
+      <point x="341" y="319"/>
+      <point x="417" y="118" type="curve"/>
+      <point x="493" y="317"/>
+      <point x="605" y="506"/>
+      <point x="730" y="661" type="curve"/>
+      <point x="769" y="630" type="line"/>
+      <point x="670" y="506"/>
+      <point x="582" y="366"/>
+      <point x="513" y="216" type="curve" smooth="yes"/>
+      <point x="462" y="107"/>
+      <point x="441" y="35"/>
+      <point x="441" y="35" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="417" y="555" type="move" name="Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>393</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

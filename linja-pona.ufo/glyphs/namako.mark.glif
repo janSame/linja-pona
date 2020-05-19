@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="namako.mark" format="1">
+  <unicode hex="F225"/>
+  <outline>
+    <contour>
+      <point x="-508" y="298" type="line"/>
+      <point x="-645" y="298" type="line"/>
+      <point x="-645" y="348" type="line"/>
+      <point x="-508" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="-187" y="298" type="line"/>
+      <point x="-325" y="298" type="line"/>
+      <point x="-325" y="348" type="line"/>
+      <point x="-187" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="-392" y="94" type="line"/>
+      <point x="-441" y="94" type="line"/>
+      <point x="-441" y="231" type="line"/>
+      <point x="-392" y="231" type="line"/>
+    </contour>
+    <contour>
+      <point x="-392" y="414" type="line"/>
+      <point x="-441" y="414" type="line"/>
+      <point x="-441" y="552" type="line"/>
+      <point x="-392" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>298</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-441</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

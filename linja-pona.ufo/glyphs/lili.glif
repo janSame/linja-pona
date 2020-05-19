@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lili" format="1">
+  <advance width="708"/>
+  <unicode hex="E628"/>
+  <outline>
+    <contour>
+      <point x="355" y="101" type="line"/>
+      <point x="98" y="486" type="line"/>
+      <point x="139" y="514" type="line"/>
+      <point x="354" y="191" type="line"/>
+      <point x="569" y="514" type="line"/>
+      <point x="611" y="486" type="line"/>
+    </contour>
+  </outline>
+</glyph>

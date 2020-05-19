@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sama.mark" format="1">
+  <unicode hex="F187"/>
+  <outline>
+    <contour>
+      <point x="-228" y="383" type="line"/>
+      <point x="-605" y="383" type="line"/>
+      <point x="-605" y="429" type="line"/>
+      <point x="-228" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="-221" y="216" type="line"/>
+      <point x="-612" y="216" type="line"/>
+      <point x="-612" y="262" type="line"/>
+      <point x="-221" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="325" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>216</integer>
+            <key>width</key>
+            <integer>46</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>383</integer>
+            <key>width</key>
+            <integer>46</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

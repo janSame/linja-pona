@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sin.mark.small" format="1">
+  <unicode hex="E840"/>
+  <outline>
+    <contour>
+      <point x="-621" y="305" type="line"/>
+      <point x="-621" y="355" type="line"/>
+      <point x="-487" y="355" type="line"/>
+      <point x="-487" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="-346" y="305" type="line"/>
+      <point x="-346" y="355" type="line"/>
+      <point x="-212" y="355" type="line"/>
+      <point x="-212" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="-441" y="421" type="line"/>
+      <point x="-441" y="562" type="line"/>
+      <point x="-392" y="562" type="line"/>
+      <point x="-392" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="-416" y="407" type="move" name="_Anchor"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>305</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-441</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
